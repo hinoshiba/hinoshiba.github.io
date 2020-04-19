@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on hinoshiba log</title>
-    <link>https://www.hinoshiba.com/post/</link>
-    <description>Recent content in Posts on hinoshiba log</description>
+    <title>ddns on hinoshiba log</title>
+    <link>https://www.hinoshiba.com/tags/ddns/</link>
+    <description>Recent content in ddns on hinoshiba log</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 20 Apr 2020 00:10:44 +0900</lastBuildDate>
     
-	<atom:link href="https://www.hinoshiba.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.hinoshiba.com/tags/ddns/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -25,15 +25,6 @@
 お名前.comのクライアントのように、グローバルIPアドレスを更新する機能は有していません。
 もし、グローバルIPアドレスを一緒に更新させたいなら、以下のような簡単なscriptを用意すればすみますし。
 OLD_PATH=&amp;quot;${HOME}/.ddns_clnt&amp;quot; HOST=&amp;quot;test&amp;quot; DOMAIN=&amp;quot;example.com&amp;quot; n_gip=$(curl -s globalip.me) o_gip=$(cat ${OLD_PATH}) if [ &amp;quot;${n_gip}&amp;quot; != &amp;quot;${o_gip}&amp;quot; ]; then onamaeddns ${HOST} ${DOMAIN} ${n_gip} echo -n ${n_gip} &amp;gt; ${OLD_PATH} fi  あとがき 公式様がLinuxクライアント作ってくれないかな。。。。</description>
-    </item>
-    
-    <item>
-      <title>Helloworld</title>
-      <link>https://www.hinoshiba.com/post/helloworld/</link>
-      <pubDate>Fri, 03 Apr 2020 22:17:40 +0900</pubDate>
-      
-      <guid>https://www.hinoshiba.com/post/helloworld/</guid>
-      <description>test page </description>
     </item>
     
   </channel>
