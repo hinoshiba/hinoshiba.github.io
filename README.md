@@ -1,7 +1,7 @@
 hinoshiba
 ===
 
-![img/avator.jpg](img/avator.jpg)
+![img/avatar.jpg](img/avatar.jpg)
 
 情シスとプログラマをしていました。  
 FY2021からセキュリティっぽいお仕事とプログラマに転換中  
