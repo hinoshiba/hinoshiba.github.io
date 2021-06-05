@@ -24,5 +24,3 @@ FY2021からセキュリティっぽいお仕事とプログラマに転換中
 		* キャッチーに広げたいもの（IT寄り）
 	* [Alis.to](https://alis.to/users/hinoshiba)
 		* 暗号資産（仮想通貨）関係
-## post
-* [お名前.com DDNS Linux クライアントを作ってみた](post/onamaeddnsclient/)
