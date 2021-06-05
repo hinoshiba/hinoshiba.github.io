@@ -1,15 +1,5 @@
 hinoshiba
 ===
-
-![img/avatar.jpg](img/avatar.jpg)
-
-情シスとプログラマをしていました。  
-FY2021からセキュリティっぽいお仕事とプログラマに転換中  
-
-相棒はうさぎさんのぬいぐるみです。  
-名前は、「はーちゃんうーちゃん」。  
-旦那さんはクマさんの「あらいさん」です。  
-
 ## Links
 
 * [EMAIL:ichigx0f.hinoshiba@gmail.com](ichigx0f.hinoshiba@gmail.com)
