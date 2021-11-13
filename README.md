@@ -21,7 +21,7 @@
 	* [Alis.to](https://alis.to/users/hinoshiba)
 		* 暗号資産（仮想通貨）関係
 * memo
-	* [./public/](./public/)
+	* [./public_docs/](./public/_docs/)
 		* 公開しているメモ
 
 ## Leaved
