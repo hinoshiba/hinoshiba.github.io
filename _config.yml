@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: www.hinoshiba.com
-description: 情シスとプログラマをしていました。<br>FY2021からセキュリティっぽいお仕事とプログラマに転換中<br>相棒はうさぎさんのぬいぐるみです。<br>名前は、「はーちゃんうーちゃん」。<br>旦那さんはクマさんの「あらいさん」です。
+description: hinoshibaか、ShungoKumasaka(芸名)として、セキュリティ/プログラマ/情シス なことしています<br>相棒はうさぎさんのぬいぐるみです。<br>名前は、「はーちゃんうーちゃん」。<br>旦那さんはクマさんの「あらいさん」です。
 logo: ./img/avatar.jpg
 #show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 #google_analytics: [Your Google Analytics tracking ID]

@@ -14,6 +14,8 @@
 * blog
 	* [./post/](./post/README.md)
 		* 大切に残したいもの
+	* [./o-post/](./o-post/README.md)
+		* 個人名義以外の枠で投稿した一覧
 	* [はてなブログ](https://hinoshiba.hatenablog.com/)
 		* キャッチーに広げたいもの（IT以外）
 	* [Note](https://note.com/hinoshiba)
