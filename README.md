@@ -18,8 +18,9 @@
 		* 個人名義以外の枠で投稿した一覧
 	* [はてなブログ](https://hinoshiba.hatenablog.com/)
 		* キャッチーに広げたいもの（IT以外）
-	* [Note](https://note.com/hinoshiba)
+	* [Zenn.dev](https://zenn.dev/hinoshiba)
 		* キャッチーに広げたいもの（IT寄り）
+		* powered by https://github.com/hinoshiba/zenn.dev
 	* [Alis.to](https://alis.to/users/hinoshiba)
 		* 暗号資産（仮想通貨）関係
 * memo
@@ -28,3 +29,6 @@
 
 ## Leaved
 * [Qiita](https://github.com/hinoshiba/qiita)
+* [Note](https://note.com/hinoshiba)
+	* 2021/12/18 まで
+	* [Zenn.dev](https://zenn.dev/hinoshiba) に移行
