@@ -5,6 +5,7 @@ hinoshiba.com./o-post/
 
 ### 記事一覧
 
+* [SEILでつくる、“最強”ご家庭用ルータ ～ひかり電話無しプラン～](https://eng-blog.iij.ad.jp/archives/11253)
 * [Apache HTTP Server 2.4.50におけるパストラバーサル脆弱性（CVE-2021-42013）の発見](https://wizsafe.iij.ad.jp/2021/10/1285/)
 * [Apache httpdの脆弱性“CVE-2021-42013”の発見と報告 – IIJ セキュリティオペレーションセンター](https://eng-blog.iij.ad.jp/archives/10987)
 * [IIJ Bootcamp GoでWebアプリケーションを作る](https://github.com/iij/bootcamp/tree/2021/src/server-app/go)
