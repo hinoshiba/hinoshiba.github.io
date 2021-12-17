@@ -30,5 +30,5 @@
 ## Leaved
 * [Qiita](https://github.com/hinoshiba/qiita)
 * [Note](https://note.com/hinoshiba)
-	* 2021/12/18 まで
+	* 2021/12/18 に停止
 	* [Zenn.dev](https://zenn.dev/hinoshiba) に移行
