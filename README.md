@@ -13,7 +13,7 @@
 * [Github](https://github.com/hinoshiba)
 * blog
 	* [./post/](./post/README.md)
-		* 大切に残したいもの
+		* 大切に残したいブログ
 	* [./o-post/](./o-post/README.md)
 		* 個人名義以外の枠で投稿した一覧
 	* [はてなブログ](https://hinoshiba.hatenablog.com/)
