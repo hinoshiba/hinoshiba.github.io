@@ -23,9 +23,11 @@
 		* powered by https://github.com/hinoshiba/zenn.dev
 	* [Alis.to](https://alis.to/users/hinoshiba)
 		* 暗号資産（仮想通貨）関係
-* memo
+* pages
 	* [./public_docs/](./public_docs/)
-		* 公開しているメモ
+		* 個人のメモなど
+	* [./public_iCH1family/](./public_iCH1family/)
+		* 家庭のルールページ
 
 ## Leaved
 * [Qiita](https://github.com/hinoshiba/qiita)
