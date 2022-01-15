@@ -1,36 +1,28 @@
 ./ (top page)
 ===
 
-## ./post/
+![img/avatar.jpg](./img/avatar.jpg)  
+hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry/2019/11/17/100616))として、セキュリティ/プログラマ/情シス なことしています。  
+ラビットダッキング相棒はうさぎさんのぬいぐるみ(サムネ)です。名前は、「はーちゃんうーちゃん」。その子の夫は、クマさんの"あらい"と言います。  
+詳細は、[AboutMe](./aboutme.md) をご覧ください。  
 
-* [お名前.com DDNS Linux クライアントを作ってみた](./post/onamaeddnsclient/README.md)
-* [全ての記事一覧](./post/README.md)
+# メインコンテンツ
 
-## Links
+## [外部活動一覧(./o-post/)](./o-post/README.md)
 
-* [Twitter](https://twitter.com/hinoshiba)
-* EMAIL:`ichigx0f.hinoshiba@gmail.com`
-* [Github](https://github.com/hinoshiba)
-* blog
-	* [./post/](./post/README.md)
-		* 大切に残したいブログ
-	* [./o-post/](./o-post/README.md)
-		* 個人名義以外の枠で投稿した一覧
-	* [はてなブログ](https://hinoshiba.hatenablog.com/)
-		* キャッチーに広げたいもの（IT以外）
-	* [Zenn.dev](https://zenn.dev/hinoshiba)
-		* キャッチーに広げたいもの（IT寄り）
-		* powered by https://github.com/hinoshiba/zenn.dev
-	* [Alis.to](https://alis.to/users/hinoshiba)
-		* 暗号資産（仮想通貨）関係
-* pages
-	* [./public_docs/](./public_docs/)
-		* 個人のメモなど
-	* [./public_iCH1family/](./public_iCH1family/)
-		* 家庭のルールページ
+## MyBlog's
+* [./post/](./post/README.md)
+	* URLをIDとして残しておきたいもの
+* [はてなブログ](https://hinoshiba.hatenablog.com/)
+	* キャッチーに広げたいもの（ITorエンジニア以外）
+* [Zenn.dev](https://zenn.dev/hinoshiba)
+	* キャッチーに広げたいもの（ITorエンジニア寄り）
+	* powered by https://github.com/hinoshiba/zenn.dev
+* [Alis.to](https://alis.to/users/hinoshiba)
+	* 暗号資産（仮想通貨）関係
 
-## Leaved
-* [Qiita](https://github.com/hinoshiba/qiita)
-* [Note](https://note.com/hinoshiba)
-	* 2021/12/18 に停止
-	* [Zenn.dev](https://zenn.dev/hinoshiba) に移行
+## Other's
+* [./public_docs/](./public_docs/)
+	* 個人のメモなど
+* [./public_iCH1family/](./public_iCH1family/)
+	* 家庭のルールページ
