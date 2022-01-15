@@ -15,7 +15,7 @@ hinoshiba.com./o-post/
 * ans: Security NEXT: [独自コードで検証、「Apache HTTPD」の修正不備を発見](https://www.security-next.com/130567)
 * blog: [Apache HTTP Server 2.4.50におけるパストラバーサル脆弱性（CVE-2021-42013）の発見](https://wizsafe.iij.ad.jp/2021/10/1285/)
 * blog: [Apache httpdの脆弱性“CVE-2021-42013”の発見と報告 – IIJ セキュリティオペレーションセンター](https://eng-blog.iij.ad.jp/archives/10987)
-* ans: [ApacheSecurityTeam: Fixed in Apache HTTP Server 2.4.51 (CVE-2021-42013) ](https://httpd.apache.org/security/vulnerabilities_24.html#2.4.51)
+* ans: ApacheSecurityTeam: [Fixed in Apache HTTP Server 2.4.51 (CVE-2021-42013) ](https://httpd.apache.org/security/vulnerabilities_24.html#2.4.51)
 * ans: IPA: [JVN#51106450 Apache HTTP Server におけるディレクトリトラバーサルの脆弱性](https://jvn.jp/jp/JVN51106450/index.html)
 * textbook: [IIJ Bootcamp GoでWebアプリケーションを作る](https://github.com/iij/bootcamp/tree/2021/src/server-app/go)
 * ans: [ログミーTech: 「よろしい。ではDBも内製だ」 IIJのインシデント調査システムが内製すぎる件](https://logmi.jp/tech/articles/323954)
