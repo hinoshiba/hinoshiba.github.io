@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: hinoshiba.com
-description: hinoshiba/ShungoKumasaka の情報やハイパーリンクまとめ先
+description: <a href="https://www.hinoshiba.com/aboutme.html">hinoshiba/ShungoKumasaka</a> の情報やハイパーリンクまとめ先<br><a href="https://www.hinoshiba.com/">topを表示する</a>
 logo: ./img/avatar.jpg
 #show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: G-5SJV5QGB3G

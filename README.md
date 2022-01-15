@@ -1,15 +1,8 @@
 ./ (top page)
 ===
 
-<img src="./img/avatar.jpg" width=30%>
-hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry/2019/11/17/100616))として、セキュリティ/プログラマ/情シス なことしています。  
-ラビットダッキング相棒はうさぎさんのぬいぐるみ(サムネ)です。名前は、「はーちゃんうーちゃん」。その子の夫は、クマさんの"あらい"と言います。  
-詳細は、[AboutMe](./aboutme.md) をご覧ください。  
-
-# メインコンテンツ
-
+## [AboutMe](./aboutme.md)
 ## [外部活動一覧(./o-post/)](./o-post/README.md)
-
 ## MyBlog's
 * [./post/](./post/README.md)
 	* URLをIDとして残しておきたいもの
