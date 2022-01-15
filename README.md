@@ -2,7 +2,8 @@
 ===
 
 ## [AboutMe](./aboutme.md)
-## [外部活動一覧(./o-post/)](./o-post/README.md)
+## [個人外の活動一覧(./o-post/)](./o-post/README.md)
+
 ## MyBlog's
 * [./post/](./post/README.md)
 	* URLをIDとして残しておきたいもの
