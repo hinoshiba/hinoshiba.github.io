@@ -3,6 +3,6 @@ title: www.hinoshiba.com.
 description: hinoshiba/ShungoKumasaka の情報やハイパーリンクまとめ先
 logo: ./img/avatar.jpg
 #show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-#google_analytics: [Your Google Analytics tracking ID]
+google_analytics: G-5SJV5QGB3G
 
 # https://github.com/pages-themes/minimal
