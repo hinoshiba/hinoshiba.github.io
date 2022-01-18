@@ -8,8 +8,8 @@ hinoshiba.com./o-post/
 # 記事/活動一覧
 
 * event: [IIJ Technical WEEK IIJエンジニア図鑑](https://iij.connpass.com/event/234162/)
-	* movie: IIJのSOCをイベント初公開！リアルタイム分析だけじゃないセキュリティエンジニアのお仕事とは？
-	* movie: セキュリティエンジニア・ロングインタビュー
+	* movie: [17:05~ IIJのSOCをイベント初公開！リアルタイム分析だけじゃないセキュリティエンジニアのお仕事とは？](https://www.youtube.com/watch?v=4558NhQK92g&t=1025s)
+	* movie: [15:23~ セキュリティエンジニア・ロングインタビュー](https://www.youtube.com/watch?v=1hFI3LqLkTI&t=923s)
 * ans: ねとらぼ: [【学校で事故った体験談】中学時代、お尻から鉛筆が出るまで入院することになった理由](https://nlab.itmedia.co.jp/nl/articles/2110/28/news168.html)
 * blog: [SEILでつくる、“最強”ご家庭用ルータ ～ひかり電話無しプラン～](https://eng-blog.iij.ad.jp/archives/11253)
 * ans: Security NEXT: [独自コードで検証、「Apache HTTPD」の修正不備を発見](https://www.security-next.com/130567)
