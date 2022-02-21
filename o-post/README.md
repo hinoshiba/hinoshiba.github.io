@@ -7,6 +7,7 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* blog: [並列処理管理ライブラリ task を含む、l4goの公開](https://eng-blog.iij.ad.jp/archives/12696)
 * event: [IIJ Technical WEEK IIJエンジニア図鑑](https://iij.connpass.com/event/234162/)
 	* movie: [17:05~ IIJのSOCをイベント初公開！リアルタイム分析だけじゃないセキュリティエンジニアのお仕事とは？](https://www.youtube.com/watch?v=4558NhQK92g&t=1025s)
 	* movie: [15:23~ セキュリティエンジニア・ロングインタビュー](https://www.youtube.com/watch?v=1hFI3LqLkTI&t=923s)
