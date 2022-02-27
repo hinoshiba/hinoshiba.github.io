@@ -19,3 +19,6 @@
 	* 個人のメモなど
 * [./public_iCH1family/](./public_iCH1family/)
 	* 家庭のルールページ
+* public keys
+	* [PGP](./pubkeys/)
+	* [SSH](https://github.com/hinoshiba.keys)
