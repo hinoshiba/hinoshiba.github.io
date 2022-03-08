@@ -10,6 +10,5 @@ hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry
 ## Contacts (昇順で見る頻度が高いです)
 1. [Twitter](https://twitter.com/hinoshiba)
 	* DM or 公開リプライ
-2. EMAIL:`ichigx0f.hinoshiba@gmail.com`
-	* 週一頻度で確認
-
+2. E-MAIL:`s.k.noe@hinoshiba.com`
+	* [公開鍵はこちら](./pubkeys/)

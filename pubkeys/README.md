@@ -1,4 +1,4 @@
-hinoshiba GPG
+hinoshiba PGP
 ===
 
 ## list
