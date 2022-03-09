@@ -6,4 +6,4 @@ hinoshiba.com./post/
 
 ### 記事一覧
 
-* [お名前.com DDNS Linux クライアントを作ってみた](./onamaeddnsclient/README.md)
+* [お名前.com DDNS Linux macOS クライアントを作ってみた](./onamaeddnsclient/README.md)
