@@ -1,8 +1,8 @@
 ---
-title: "お名前.com DDNS Linux クライアントを作ってみた"
+title: "お名前.com DDNS Linux macOS クライアントを作ってみた"
 date: 2020-04-20T00:10:44+09:00
 categories : ["tools"]
-tags : ["tools", "onamae.com", "ddns"]
+tags : ["tools", "onamae.com", "ddns", "linux", "mac"]
 draft: false
 ---
 
@@ -22,18 +22,18 @@ Windows版で、DDNSクライアントがあるだけでもありがたいこと
 どうやら、TLSクライアントでそれっぽく会話すると、更新できることを調べている方がいました。  
 * [https://qiita.com/ats124/items/59ec0f444d00bbcea27d](https://qiita.com/ats124/items/59ec0f444d00bbcea27d)
 
-
 ---
 
-## Linux版クライアントを作成した
+## Linux版クライアント、macOS版クライアントを作成した
 
-linuxか、macで活用したいので、golangで作成してみました。  
-* [hinoshiba / go-onamaeddns](https://github.com/hinoshiba/go-onamaeddns)
+linux(x86)か、mac(m1)で活用したいので、golangで作成してみました。  
+[hinoshiba / onamaeddns](https://github.com/hinoshiba/onamaeddns)  
+私が使う都合で、2種類だけbuild配布していますが、golangで作成しているので、Windows用もbuildは可能です。(こちらは公式ツールがあるので不要かもしれませんが)  
 非公式なので、活用は自己責任でお願いします。  
 
 ### インストール手順
 
-1. お好きなバージョンを[ダウンロード](https://github.com/hinoshiba/go-onamaeddns/releases)
+1. お好きなバージョンを[ダウンロード](https://github.com/hinoshiba/onamaeddns/releases)
 2. 認証情報をファイルに保存
 ```
 $ touch ~/.onamaeddns
@@ -49,21 +49,24 @@ $ onamaeddns testsubdomain example.com 127.0.0.1
 
 あくまで、**IPアドレスを更新** することを主目的にしたツールなので、  
 お名前.comのクライアントのように、グローバルIPアドレスを更新する機能は有していません。  
-もし、グローバルIPアドレスを一緒に更新させたいなら、以下のような簡単なscriptを用意すればすみますし。  
+もし、グローバルIPアドレスを一緒に更新させたいなら、[このような](https://github.com/hinoshiba/onamaeddns/blob/master/sample/usr/local/bin/ddns_clnt.sh) 簡単なscriptを用意すればすみます。  
 
+サンプルscriptを含めた、使い方は、[こちら](https://github.com/hinoshiba/onamaeddns/blob/master/docs/usage-cli.md) にもまとまっています。  
+
+### 2022/03/10 追記
+
+本ツールと、グローバルIPアドレスを確認するスクリプトを合わせたdocker imageの公開も行いました。  
+[https://hub.docker.com/repository/docker/hinoshiba/onamaeddns](https://hub.docker.com/repository/docker/hinoshiba/onamaeddns)  
+
+これにより、ライブラリとして使いたいケース、単にグローバルIPアドレスの更新ツールとして使いたいケース いずれにも対応できました。  
+
+例えば、以下のようなコマンドだけで簡単に実行できます。  
+```bash
+docker run -it --rm --mount type=bind,src=/home/hinoshiba/.onamaeddns-cred,dst=/etc/onamaeddns/cred,ro -e TARGET_HOST="superhost" -e TARGET_DOMAIN="example.com" hinoshiba/onamaeddns:latest
 ```
-OLD_PATH="${HOME}/.ddns_clnt"
-HOST="test"
-DOMAIN="example.com"
+(300秒おきに、`globalip.me` を活用した確認と差分がある場合に更新)  
 
-n_gip=$(curl -s globalip.me)
-o_gip=$(cat ${OLD_PATH})
-
-if [ "${n_gip}" != "${o_gip}" ]; then
-	onamaeddns ${HOST} ${DOMAIN} ${n_gip}
-	echo -n ${n_gip} > ${OLD_PATH}
-fi
-```
+詳細は、[こちら](https://github.com/hinoshiba/onamaeddns/blob/master/docs/usage-docker.md) の説明を参考にください。  
 
 ---
 
