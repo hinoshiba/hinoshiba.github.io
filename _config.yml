@@ -1,8 +1,10 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker@v0.2.0
 title: hinoshiba.com
 description: <a href="https://www.hinoshiba.com/aboutme.html">hinoshiba/ShungoKumasaka</a> の情報やハイパーリンクまとめ先<br><a href="../">you@browser$ cd .. || 一つ上の階層へ戻る</a>
 logo: ./img/avatar.jpg
 #show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: G-5SJV5QGB3G
+plugins:
+  - jekyll-sitemap
 
 # https://github.com/pages-themes/minimal
