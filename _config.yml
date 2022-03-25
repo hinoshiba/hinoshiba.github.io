@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 title: hinoshiba.com
 description: <a href="https://www.hinoshiba.com/aboutme.html">hinoshiba/ShungoKumasaka</a> の情報やハイパーリンクまとめ先<br><a href="../">you@browser$ cd .. || 一つ上の階層へ戻る</a>
-logo: ./img/avatar.jpg
+logo: ./img/avatar.png
 #show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: G-5LMXQHKZWF
 plugins:

@@ -1,7 +1,7 @@
 AboutMe
 ===
 
-![img/avatar.jpg](./img/avatar.jpg)  
+![img/avatar.png](./img/avatar.png)  
 
 ## About
 hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry/2019/11/17/100616))として、セキュリティ/プログラマ/情シス なことしています。  
