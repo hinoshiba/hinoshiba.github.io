@@ -4,7 +4,6 @@
 ## [AboutMe](./aboutme.md)
 
 ## [活動一覧(./o-post/)](./o-post/README.md)
-* 自身のブログ以外
 
 ## [自身のブログ(./post/)](./post/README.md)
 
