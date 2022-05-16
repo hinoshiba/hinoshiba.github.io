@@ -6,6 +6,7 @@ hinoshiba.com./post/
 
 ### 記事一覧
 
+* 2022-05-15 [作業環境をDockerfileにまとめて、macOSでもLinuxでもWSL2でも快適に過ごせるようになった話](https://zenn.dev/hinoshiba/articles/workstation-on-docker)
 * 2022-01-02 [宅内ドキュメントをGitHubに、markdownでpublic化したお話](https://zenn.dev/hinoshiba/articles/public-family-docs)
 * 2021-12-28 [プログラマな僕が iPadPro 12.9 からMacbookPro 14へ乗り換えた話](https://zenn.dev/hinoshiba/articles/ipadpro12-mbp14)
 * 2021-12-18 [暗号資産自動取引bot(Vouquet)の収益報告](https://zenn.dev/hinoshiba/articles/my-vcbot-vouquet-report)
