@@ -27,4 +27,4 @@ hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry
 ## サムネイルについて
 
 サムネイル発注先は、Mion様([Twitter](https://twitter.com/pom_vouov) / [HP](https://mions-art.com/)) です。  
-所有権は私が保持し、個人/商用利用及び、所有権を示す目的に限ったNFT化に関する本イラストの使用をMion様と契約しております。 著作権は、Mion様が有します。  
+所有権は私が保持し、個人/商用利用及び、所有権を示す目的に限った[NFT化](https://opensea.io/collection/hinoshiba) に関する本イラストの使用をMion様と契約しております。 著作権は、Mion様が有します。  
