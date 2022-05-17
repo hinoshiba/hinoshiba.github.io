@@ -1,7 +1,7 @@
 AboutMe
 ===
 
-[img/avatar.png](./img/avatar.png)  
+![img/avatar.png](./img/avatar.png)  
 
 hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry/2019/11/17/100616))として、IT なことしています。  
 サムネに使っているイラストは、ラビットダッキング相棒のうさぎさんのぬいぐるみをモチーフに描いていただきました。うさぎさんの名前は、「はーちゃんうーちゃん」。その子の夫は、クマさんの"あらい"と言います。  
@@ -26,5 +26,5 @@ hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry
 
 ## サムネイルについて
 
-サムネイル発注先は、Mion様(https://twitter.com/pom_vouov / https://mions-art.com/) です。  
+サムネイル発注先は、Mion様([Twitter](https://twitter.com/pom_vouov) / [HP](https://mions-art.com/)) です。  
 所有権は私が保持し、個人/商用利用及び、所有権を示す目的に限ったNFT化に関する本イラストの使用をMion様と契約しております。 著作権は、Mion様が有します。  
