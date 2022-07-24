@@ -7,6 +7,7 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* blog: [Apache Spark OSコマンドインジェクションの脆弱性(CVE-2022-33891)について](https://gmo-cybersecurity.com/blog/apachespark_oscommandinjection_cve-2022-33891/)
 * blog: [S2-062(CVE-2021-31805) に関する任意のコード実行について](https://gmo-cybersecurity.com/blog/s2-062_cve-2021-31805_rce/)
 * blog: [NGINX LDAP AUTHに関する脆弱性](https://gmo-cybersecurity.com/blog/nginx_ldap_auth/)
 * blog: [並列処理管理ライブラリ task を含む、l4goの公開](https://eng-blog.iij.ad.jp/archives/12696)
