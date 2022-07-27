@@ -7,6 +7,7 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* report: IPA: [CVE-2022-34156 / JVN#81563390 iOS アプリ「Hulu / フールー」におけるサーバ証明書の検証不備の脆弱性](https://jvn.jp/jp/JVN81563390/index.html)
 * blog: [Apache Spark OSコマンドインジェクションの脆弱性(CVE-2022-33891)について](https://gmo-cybersecurity.com/blog/apachespark_oscommandinjection_cve-2022-33891/)
 * blog: [S2-062(CVE-2021-31805) に関する任意のコード実行について](https://gmo-cybersecurity.com/blog/s2-062_cve-2021-31805_rce/)
 * blog: [NGINX LDAP AUTHに関する脆弱性](https://gmo-cybersecurity.com/blog/nginx_ldap_auth/)
@@ -19,8 +20,8 @@ hinoshiba.com./o-post/
 * ans: Security NEXT: [独自コードで検証、「Apache HTTPD」の修正不備を発見](https://www.security-next.com/130567)
 * blog: [Apache HTTP Server 2.4.50におけるパストラバーサル脆弱性（CVE-2021-42013）の発見](https://wizsafe.iij.ad.jp/2021/10/1285/)
 * blog: [Apache httpdの脆弱性“CVE-2021-42013”の発見と報告 – IIJ セキュリティオペレーションセンター](https://eng-blog.iij.ad.jp/archives/10987)
-* ans: ApacheSecurityTeam: [Fixed in Apache HTTP Server 2.4.51 (CVE-2021-42013) ](https://httpd.apache.org/security/vulnerabilities_24.html#2.4.51)
-* ans: IPA: [JVN#51106450 Apache HTTP Server におけるディレクトリトラバーサルの脆弱性](https://jvn.jp/jp/JVN51106450/index.html)
+* report: ApacheSecurityTeam: [Fixed in Apache HTTP Server 2.4.51 (CVE-2021-42013) ](https://httpd.apache.org/security/vulnerabilities_24.html#2.4.51)
+* report: IPA: [CVE-2021-42013 / JVN#51106450 Apache HTTP Server におけるディレクトリトラバーサルの脆弱性](https://jvn.jp/jp/JVN51106450/index.html)
 * textbook: [IIJ Bootcamp GoでWebアプリケーションを作る](https://github.com/iij/bootcamp/tree/2021/src/server-app/go)
 * ans: [ログミーTech: 「よろしい。ではDBも内製だ」 IIJのインシデント調査システムが内製すぎる件](https://logmi.jp/tech/articles/323954)
 * event: [IIJ Technical NIGHT vol.9 セキュリティアナリストのお仕事──分析、AI、ツール開発](https://iij.connpass.com/event/184399/)
@@ -44,3 +45,4 @@ hinoshiba.com./o-post/
 |slide|自身で作成したスライド|
 |movie|誰かが僕を取ったもの|
 |ans|誰にインタビューを受け記事化、ページ化してもらったもの|
+|report|報告したもの|
