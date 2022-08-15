@@ -12,8 +12,6 @@ hinoshiba.com./post/
 * 2021-12-18 [暗号資産自動取引bot(Vouquet)の収益報告](https://zenn.dev/hinoshiba/articles/my-vcbot-vouquet-report)
 * 2021-12-18 [非IT業界の妻にPullRequestを送ろう ~家計簿GitHubリポジトリ化の軌跡~](https://zenn.dev/hinoshiba/articles/pullrequest2noit-mywife)
 * 2021-05-31 [暗号資産自動取引ボットの紹介](https://zenn.dev/hinoshiba/articles/my-vcbot-vouquet)
-* 2021-04-24 [ぼくの考える "さいきょう" のALISクライアントライブラリ](https://alis.to/hinoshiba/articles/3ld9qk8g9pDw)
-* 2021-04-03 [暗号資産自動取引ボットを作りました](https://alis.to/hinoshiba/articles/2MqYQO1LBqZ4)
 * 2020-04-20 [お名前.com DDNS Linux macOS クライアントを作ってみた](./onamaeddnsclient/README.md)
 * 2019-11-17 [Re:ゼロから始める「妻の氏」選択](https://hinoshiba.hatenablog.com/entry/2019/11/17/100616)
 	* 2019-10-08 [Re:ゼロから始める「妻の氏」選択 私的手続き関係](https://hinoshiba.hatenablog.com/entry/2019/10/08/001028)
@@ -29,5 +27,3 @@ hinoshiba.com./post/
 * [Zenn.dev](https://zenn.dev/hinoshiba)
 	* キャッチーに広げたいもの（ITorエンジニア寄り）
 	* powered by https://github.com/hinoshiba/zenn.dev
-* [Alis.to](https://alis.to/users/hinoshiba)
-	* 暗号資産（仮想通貨）関係
