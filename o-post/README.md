@@ -7,6 +7,7 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* event: [［開催レポート］GMO Hacking Night#01](https://developers.gmo.jp/23432/)
 * report: IPA: [CVE-2022-34156 / JVN#81563390 iOS アプリ「Hulu / フールー」におけるサーバ証明書の検証不備の脆弱性](https://jvn.jp/jp/JVN81563390/index.html)
 * blog: [Apache Spark OSコマンドインジェクションの脆弱性(CVE-2022-33891)について](https://gmo-cybersecurity.com/blog/apachespark_oscommandinjection_cve-2022-33891/)
 * blog: [S2-062(CVE-2021-31805) に関する任意のコード実行について](https://gmo-cybersecurity.com/blog/s2-062_cve-2021-31805_rce/)
