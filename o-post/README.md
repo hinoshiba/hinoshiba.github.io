@@ -7,6 +7,8 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* event: [CODEBLUE 2022 Webハッキング体験 forビギナーズ](https://codeblue.jp/2022/contests/detail_02/)
+	* ans: [「Webハッキング体験 forビギナーズ」に参加してきました – CODE BLUE 2022 #codeblue_jp](https://dev.classmethod.jp/articles/codeblue-2022-contents-ierae/)
 * event: [［開催レポート］GMO Hacking Night#01](https://developers.gmo.jp/23432/)
 * report: IPA: [CVE-2022-34156 / JVN#81563390 iOS アプリ「Hulu / フールー」におけるサーバ証明書の検証不備の脆弱性](https://jvn.jp/jp/JVN81563390/index.html)
 * blog: [Apache Spark OSコマンドインジェクションの脆弱性(CVE-2022-33891)について](https://gmo-cybersecurity.com/blog/apachespark_oscommandinjection_cve-2022-33891/)
@@ -45,5 +47,5 @@ hinoshiba.com./o-post/
 |textbook|自身で文章を作成した教材|
 |slide|自身で作成したスライド|
 |movie|誰かが僕を取ったもの|
-|ans|誰にインタビューを受け記事化、ページ化してもらったもの|
+|ans|誰が記事化してくださったもので、執筆者から事前/事後に会話いただいているもの|
 |report|報告したもの|
