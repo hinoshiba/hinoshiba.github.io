@@ -23,6 +23,7 @@ hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry
 	* 守備範囲は、クウガ ~ ゼロワン
 * ぬいぐるみ: [ご当地ベア](https://www.fujisey.com/gotouchibear/)
 * ゲーム: [ロケットリーグ](https://www.rocketleague.com/)
+	* [rocket-league/profile hinoshiba](https://rocketleague.tracker.network/rocket-league/profile/epic/hinoshiba/performance)
 
 ## サムネイルについて
 
