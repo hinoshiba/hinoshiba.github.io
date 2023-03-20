@@ -6,3 +6,5 @@ logo: ./img/avatar.png
 google_analytics: G-5LMXQHKZWF
 plugins:
   - jekyll-sitemap
+include:
+  - ".well-known"
