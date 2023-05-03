@@ -7,6 +7,10 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* event: [TEDxUTokyo 2023 HackingDay byGMO](https://tedxutokyo-official.studio.site/dokudoku)
+	* [本件のツイート: TEDxUTokyo実行委員会 / @@TEDxUTokyo](https://twitter.com/TEDxUTokyo/status/1652582032269279232)
+	* [本件のツイート: GMOサイバーセキュリティ byイエラエ株式会社【公式】 / @gmo_ierae](https://twitter.com/gmo_ierae/status/1652888407318863875)
+	* [本件のツイート: 【公式】GMOインターネットグループ株式会社 採用担当 / @GmoRecruit](https://twitter.com/GmoRecruit/status/1652585160733507585)
 * coop: [情報セキュリティ10大脅威 2023](https://www.ipa.go.jp/security/vuln/10threats2023.html)
 * event: [CODEBLUE 2022 Webハッキング体験 forビギナーズ](https://codeblue.jp/2022/contests/detail_02/)
 	* ans: [「Webハッキング体験 forビギナーズ」に参加してきました – CODE BLUE 2022 #codeblue_jp](https://dev.classmethod.jp/articles/codeblue-2022-contents-ierae/)
