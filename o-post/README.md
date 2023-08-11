@@ -7,6 +7,7 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* event: [GMOグループ内CTF勉強会 @ベトナム](https://twitter.com/gmo_ierae/status/1679349650766315521)
 * report: IPA: [CVE-2023-31195 / JVN#34232595 ASUS ルーター RT-AX3000 における Secure 属性なしの Cookie 使用の脆弱性](https://jvn.jp/jp/JVN34232595/index.html)
 * event: [TEDxUTokyo 2023 HackingDay byGMO](https://tedxutokyo-official.studio.site/dokudoku)
 	* [本件のツイート: TEDxUTokyo実行委員会 / @@TEDxUTokyo](https://twitter.com/TEDxUTokyo/status/1652582032269279232)
