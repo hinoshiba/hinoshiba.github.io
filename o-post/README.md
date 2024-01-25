@@ -7,6 +7,10 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* coop: [GMOイエラエ 用賀SOC](https://www.gmo.jp/news/article/8785/)
+	* [日テレNEWS](https://youtu.be/oZ9JtsTiYZU?si=CfEE4Dbdl5VgrhSY)
+	* [テレ東BIZ](https://youtu.be/B5H3g2AZzzI?si=0K723Wa7dQAfhghV)
+* coop: [SECCON 2023 OpenConference 「退屈なことは生成AIにやらせよう」 GMOサイバーセキュリティ byイエラエ株式会社　阿部 慎司](https://x.com/shinji_abe/status/1750094680556265850)
 * event: [SECCON 2023 NOC member](https://www.seccon.jp/2023/seccon/executivecommittee.html)
 * event: [GMO サイバーセキュリティカンファレンス IERAE DAYS 2023](https://gmo-cybersecurity.com/event/ieraedays23/)
 	* [【開催レポート】サイバーセキュリティカンファレンスIERAE DAYS2023を開催しました！](https://www.wantedly.com/companies/ierae/post_articles/878115)
