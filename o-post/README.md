@@ -7,6 +7,9 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* coop: [情報セキュリティ10大脅威 2024](https://www.ipa.go.jp/security/10threats/10threats2024.html)
+* event: [日本人専門家がサイバーセキュリティ研修を指導](https://www.montsame.mn/jp/read/338698)
+	* [デジタル開発通信省 Facebook](https://www.facebook.com/story.php?story_fbid=808516097981994&id=100064708327761&mibextid=WC7FNe)
 * coop: [GMOイエラエ 用賀SOC](https://www.gmo.jp/news/article/8785/)
 	* [日テレNEWS](https://youtu.be/oZ9JtsTiYZU?si=CfEE4Dbdl5VgrhSY)
 	* [テレ東BIZ](https://youtu.be/B5H3g2AZzzI?si=0K723Wa7dQAfhghV)
