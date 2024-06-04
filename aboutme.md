@@ -3,6 +3,7 @@ AboutMe
 
 ![img/avatar.png](./img/avatar.png)  
 
+
 hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry/2019/11/17/100616))として、IT なことしています。  
 サムネに使っているイラストは、ラビットダッキング相棒のうさぎさんのぬいぐるみをモチーフに描いていただきました。うさぎさんの名前は、「はーちゃんうーちゃん」。その子の夫は、クマさんの"あらい"と言います。  
 
@@ -25,7 +26,17 @@ hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry
 * ゲーム: [ロケットリーグ](https://www.rocketleague.com/)
 	* [rocket-league/profile hinoshiba](https://rocketleague.tracker.network/rocket-league/profile/epic/hinoshiba/performance)
 
+![img/hinoshiba_kawaii.png](./img/hinoshiba_kawaii.png)  
+
+# 画像のライセンス
+
 ## サムネイルについて
 
 サムネイル発注先は、Mion様([Twitter](https://twitter.com/pom_vouov) / [HP](https://mions-art.com/)) です。  
 所有権は私が保持し、個人/商用利用及び、所有権を示す目的に限った[NFT化](https://opensea.io/collection/hinoshiba) に関する本イラストの使用をMion様と契約しております。 著作権は、Mion様が有します。  
+
+## ヘッダ等の画像について
+
+ヘッダ等の画像発注先は、さわらつき様([Twitter](https://x.com/sawaratsuki1004) / [Skeb](https://skeb.jp/@sawaratsuki)) です。  
+契約に関する情報は、[こちら](https://skeb.jp/@sawaratsuki/works/10) の通りです。  
+さわらつき様は、[こちらで他の作品も公開されています。](https://github.com/SAWARATSUKI/KawaiiLogos)  
