@@ -7,6 +7,7 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* event: [走り出したイエラエSOCと、攻撃を防御に展開するための”SEM”型(阿部慎司, 熊坂駿吾) / Hardening Designers Conference 2024 Tech Showcase](https://wasforum.jp/2024/06/hardening-designers-conference-2024-convolutions/#DAY2_75_13_00-17_00_18_00-19_30_%E3%83%95%E3%83%AB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3)
 * coop: [情報セキュリティ10大脅威 2024](https://www.ipa.go.jp/security/10threats/10threats2024.html)
 * event: [日本人専門家がサイバーセキュリティ研修を指導](https://www.montsame.mn/jp/read/338698)
 	* [デジタル開発通信省 Facebook](https://www.facebook.com/story.php?story_fbid=808516097981994&id=100064708327761&mibextid=WC7FNe)
