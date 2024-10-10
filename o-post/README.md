@@ -7,6 +7,7 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* event: [SECCON 13(2024) NOC member](https://www.seccon.jp/13/seccon/executivecommittee.html)
 * event: [GMO サイバーセキュリティカンファレンス IERAE DAYS 2024](https://gmo-cybersecurity.com/event/ieraedays24/)
 * blog: [IERAE DAYS 2024 ワークショップを支えるインフラの仕組み](https://gmo-cybersecurity.com/blog/ierae-days-2024-workshop-infra/)
 * event: [走り出したイエラエSOCと、攻撃を防御に展開するための”SEM”型(阿部慎司, 熊坂駿吾) / Hardening Designers Conference 2024 Tech Showcase](https://wasforum.jp/2024/06/hardening-designers-conference-2024-convolutions/#DAY2_75_13_00-17_00_18_00-19_30_%E3%83%95%E3%83%AB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3)
