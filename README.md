@@ -10,7 +10,7 @@
 ## その他のリンク
 * [./public_docs/](./public_docs/)
 	* 個人のメモなど
-* [./public_iCH1family/](./public_iCH1family/)
+* [notion: public_iCH1family/](https://hinoshiba.notion.site/public-iCH1family-1482fd7b67a880ee8711dbf57af25d18)
 	* 家庭のルールページ
 * public keys
 	* [PGP](./pubkeys/)
