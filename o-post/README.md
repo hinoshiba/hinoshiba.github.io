@@ -11,8 +11,8 @@ hinoshiba.com./o-post/
 * 2024/11/10: event: [NIPPON IT チャリティ駅伝 第 13 回｜2024](https://www.nit-run.com/file/nit_run2024_result.pdf)
 	* タイム 00:14:00 / チームNo. 463
 * 2024/10/30: event: [HITCON Cyberrange 2024 3位](https://gmo-cybersecurity.com/news/20241105/)
-	* https://www.flickr.com/photos/hitcon/54170041950/in/album-72177720322216936
-	* https://www.flickr.com/photos/hitcon/54170041395/in/album-72177720322216936
+	* [写真: 競技中](https://www.flickr.com/photos/hitcon/54170041950/in/album-72177720322216936)
+	* [写真: 表彰式](https://www.flickr.com/photos/hitcon/54170041395/in/album-72177720322216936)
 * 2024: event: [SECCON 13(2024) NOC member](https://www.seccon.jp/13/seccon/executivecommittee.html)
 * 2024/09/26: event: [GMO サイバーセキュリティカンファレンス IERAE DAYS 2024](https://gmo-cybersecurity.com/event/ieraedays24/)
 * 2024/08/20: blog: [IERAE DAYS 2024 ワークショップを支えるインフラの仕組み](https://gmo-cybersecurity.com/blog/ierae-days-2024-workshop-infra/)
