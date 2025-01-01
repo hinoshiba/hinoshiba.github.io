@@ -26,7 +26,7 @@ hinoshiba.com./o-post/
 	* [テレ東BIZ](https://youtu.be/B5H3g2AZzzI?si=0K723Wa7dQAfhghV)
 * 2024/01/24: coop: [SECCON 2023 OpenConference 「退屈なことは生成AIにやらせよう」 GMOサイバーセキュリティ byイエラエ株式会社　阿部 慎司](https://x.com/shinji_abe/status/1750094680556265850)
 * 2023: event: [SECCON 2023 NOC member](https://www.seccon.jp/2023/seccon/executivecommittee.html)
-* 2024/12/07: event: [GMO サイバーセキュリティカンファレンス IERAE DAYS 2023](https://gmo-cybersecurity.com/event/ieraedays23/)
+* 2023/12/07: event: [GMO サイバーセキュリティカンファレンス IERAE DAYS 2023](https://gmo-cybersecurity.com/event/ieraedays23/)
 	* [【開催レポート】サイバーセキュリティカンファレンスIERAE DAYS2023を開催しました！](https://www.wantedly.com/companies/ierae/post_articles/878115)
 * 2023/11/08: event: [CODEBLUE 2023 Webハッキング体験 forビギナーズ](https://archive.codeblue.jp/2023/contests/detail_04/)
 * 2023/07/13: event: [GMOグループ内CTF勉強会 @ベトナム](https://twitter.com/gmo_ierae/status/1679349650766315521)
