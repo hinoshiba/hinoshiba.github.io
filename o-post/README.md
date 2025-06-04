@@ -7,8 +7,10 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
-* 2024/02/15: coop: movie: [TBSテレビ「情報7daysニュースキャスター」に取材協力しました](https://gmo-cybersecurity.com/news/20250217/)
-* 2024/01/30: coop: [情報セキュリティ10大脅威 2025](https://www.ipa.go.jp/security/10threats/10threats2025.html)
+* 2025/04/27: event: [TEDxUTokyo 2025 ホワイトハッカーへの第一歩！ GMO流ハッキング演習 入門編](https://events.tedxutokyo.com/main2025/contents.html#workshop-section)
+	* [TEDxUTokyo 2025にてシニアエンジニアの熊坂駿吾がワークショップの講師を務めました](https://gmo-cybersecurity.com/news/20250602/)
+* 2025/02/15: coop: movie: [TBSテレビ「情報7daysニュースキャスター」に取材協力しました](https://gmo-cybersecurity.com/news/20250217/)
+* 2025/01/30: coop: [情報セキュリティ10大脅威 2025](https://www.ipa.go.jp/security/10threats/10threats2025.html)
 * 2024/12/18: coop: blog: [【パートナーインタビュー】志が導くサイバーセキュリティの未来。GMO イエラエSOCの魅力と挑戦](https://www.wantedly.com/companies/ierae/post_articles/939068)
 * 2024/11/10: event: [NIPPON IT チャリティ駅伝 第 13 回｜2024](https://www.nit-run.com/file/nit_run2024_result.pdf)
 	* タイム 00:14:00 / チームNo. 463
