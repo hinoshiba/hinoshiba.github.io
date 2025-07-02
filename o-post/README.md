@@ -7,6 +7,7 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* 2025/06/17: coop: [Empasoft大学にて、トレーニングを実施](https://www.facebook.com/share/p/1M7gguiB3k/?mibextid=wwXIfr)
 * 2025/04/27: event: [TEDxUTokyo 2025 ホワイトハッカーへの第一歩！ GMO流ハッキング演習 入門編](https://events.tedxutokyo.com/main2025/contents.html#workshop-section)
 	* [TEDxUTokyo 2025にてシニアエンジニアの熊坂駿吾がワークショップの講師を務めました](https://gmo-cybersecurity.com/news/20250602/)
 * 2025/02/15: coop: movie: [TBSテレビ「情報7daysニュースキャスター」に取材協力しました](https://gmo-cybersecurity.com/news/20250217/)
