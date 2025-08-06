@@ -9,9 +9,9 @@ hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry
 
 ## 活動
 
-- 活動ログは、[o-post](./o-post/)
-- 資格とかは、[skills](./skills/)
-個人のブログ関係は、[post](./post/) に投稿をまとめています。  
+- [活動ログ](./o-post/)
+- [資格](./skills/)
+- [個人のブログ](./post/)
 
 
 ## 連絡先(Contacts)
