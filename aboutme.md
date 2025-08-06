@@ -7,8 +7,12 @@ AboutMe
 hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry/2019/11/17/100616))として、IT なことしています。  
 サムネに使っているイラストは、ラビットダッキング相棒のうさぎさんのぬいぐるみをモチーフに描いていただきました。うさぎさんの名前は、「はーちゃんうーちゃん」。その子の夫は、クマさんの"あらい"と言います。  
 
-僕の具体的な活動は、[o-post](./o-post/) 辺りに雑にまとめています。  
-また、個人のブログ関係は、[post](./post/) に投稿をまとめています。  
+## 活動
+
+- 活動ログは、[o-post](./o-post/)
+- 資格とかは、[skills](./skills/)
+個人のブログ関係は、[post](./post/) に投稿をまとめています。  
+
 
 ## 連絡先(Contacts)
 1. [Twitter](https://twitter.com/hinoshiba)
