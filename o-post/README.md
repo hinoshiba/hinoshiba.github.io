@@ -7,8 +7,10 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* 2025/11: coop: [EduTownあしたね > 仕事人 > ホワイトハッカー > 熊坂駿吾](https://ashitane.edutown.jp/job/workers/%E7%86%8A%E5%9D%82%E9%A7%BF%E5%90%BE/)
 * 2025/11/04: coop: [日経新聞 / サイバー防衛の拠点に潜入　ハッカーはどこを狙うのか 潜入！裏側探検隊](https://www.nikkei.com/article/DGXZQOCD2350L0T21C25A0000000/)
 	* [x.com / @nikkei / サイバー防衛の拠点に潜入　ハッカーはどこを狙うのか](https://x.com/nikkei/status/1985456780437307747)
+* 2025/10/08: coop: [GMOサイバーセキュリティ byイエラエ、「Hardening Project 2025 Invisible Divide」で最優秀企業賞（MVV）を受賞](https://prtimes.jp/main/html/rd/p/000005105.000000136.html)
 * 2025/09/08: blog: [GitHub Desktop を模したマルウェアダウンロードの誘導に関する注意喚起](https://gmo-cybersecurity.com/blog/phantom-commit-injection/)
 * 2025/07/28: event: [GMO Developers Day 2025《Security Night》 / 「実録！No.1プロダクトを目指す守りの知」](https://gmo.connpass.com/event/359571/)
 * 2025/06/17: coop: [Empasoft大学にて、トレーニングを実施](https://www.facebook.com/share/p/1M7gguiB3k/?mibextid=wwXIfr)
