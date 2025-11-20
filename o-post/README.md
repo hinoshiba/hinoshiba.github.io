@@ -8,6 +8,8 @@ hinoshiba.com./o-post/
 # 記事/活動一覧
 
 
+* 2025/11/16: event: [NIPPON IT チャリティ駅伝 第 13 回｜2024](https://www.nit-run.com/file/nit_run2024_result.pdf)
+	* タイム 00:13:13 / チームNo. 74
 * 2025/11: ans: [EduTownあしたね > 仕事人 > ホワイトハッカー > 熊坂駿吾](https://ashitane.edutown.jp/job/workers/%E7%86%8A%E5%9D%82%E9%A7%BF%E5%90%BE/)
 * 2025/11/04: coop: [日経新聞 / サイバー防衛の拠点に潜入　ハッカーはどこを狙うのか 潜入！裏側探検隊](https://www.nikkei.com/article/DGXZQOCD2350L0T21C25A0000000/)
 	* [x.com / @nikkei / サイバー防衛の拠点に潜入　ハッカーはどこを狙うのか](https://x.com/nikkei/status/1985456780437307747)
