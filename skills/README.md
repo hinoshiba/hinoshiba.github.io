@@ -5,6 +5,8 @@ skills
 
 |履歴書記入|年|月|免許・資格|
 |:---:|:---:|:---:|:---|
+|o|2025|12|Offensive Security Certified Professional Plus (OSCP+) 取得 |
+| |2025|12|Offensive Security Certified Professional (OSCP) 取得 |
 |o|2025|08|OffSec Web Assessor (OSWA) 取得|
 |o|2025|08|OffSec Incident Responder (OSIR) 取得|
 |o|2025|08|OffSec Threat Hunter (OSTH) 取得|
