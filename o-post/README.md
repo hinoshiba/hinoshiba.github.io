@@ -1,13 +1,16 @@
 hinoshiba.com./o-post/
 ===
 
-自身が管理するブログ以外での、投稿/ネタ提供/活動した などの一覧。(自身が管理するブログの一覧は、[こちら](../post/))  
+自身が管理するブログ以外での、投稿/ネタ提供/活動した/協力した などの一覧。(自身が管理するブログの一覧は、[こちら](../post/))  
 リファレンスいただいた記事は、内容確認連絡きて対応できたものだけ追記します。  
 要は、新聞スクラップみたいなものです。  
 
 # 記事/活動一覧
 
 
+* 2026/02: ans: [EduTownあしたね > 守りのプロフェッショナル](https://ashitane.edutown.jp/safety/)
+* 2026/01: coop: [Deceiving Developers: Abusing Legitimate GitHub Repositories to Deliver Malware / Theo Webb](https://jsac.jpcert.or.jp/archive/2026/pdf/JSAC2026_LT_4_theo_webb_en.pdf)
+	* https://jsac.jpcert.or.jp/
 * 2025/11/16: event: [NIPPON IT チャリティ駅伝 第 13 回｜2024](https://www.nit-run.com/file/nit_run2024_result.pdf)
 	* タイム 00:13:13 / チームNo. 74
 * 2025/11: ans: [EduTownあしたね > 仕事人 > ホワイトハッカー > 熊坂駿吾](https://ashitane.edutown.jp/job/workers/%E7%86%8A%E5%9D%82%E9%A7%BF%E5%90%BE/)

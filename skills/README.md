@@ -5,11 +5,12 @@ skills
 
 |履歴書記入|年|月|免許・資格|
 |:---:|:---:|:---:|:---|
+|o|2026|03|OffSec Web Expert (OSWE) 取得|
 | |2026|01|OffSec Certified CyberCore (OSCC-SEC) 取得|
 | |2026|01|OffSec Certified CyberCore (OSCC-SJD) 取得|
 |o|2025|12|OffSec Certified Professional Plus (OSCP+) 取得 |
 | |2025|12|OffSec Certified Professional (OSCP) 取得 |
-|o|2025|08|OffSec Web Assessor (OSWA) 取得|
+| |2025|08|OffSec Web Assessor (OSWA) 取得|
 |o|2025|08|OffSec Incident Responder (OSIR) 取得|
 |o|2025|08|OffSec Threat Hunter (OSTH) 取得|
 |o|2025|08|OffSec Defense Analyst (OSDA) 取得|
