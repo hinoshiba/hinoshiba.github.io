@@ -8,6 +8,7 @@ hinoshiba.com./o-post/
 # 記事/活動一覧
 
 
+* 2026/03: coop: [日ASEANサイバーセキュリティ能力構築センター（AJCCBC）における官民連携による演習実施](https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00278.html)
 * 2026/02: ans: [EduTownあしたね > 守りのプロフェッショナル](https://ashitane.edutown.jp/safety/)
 * 2026/01: coop: [Deceiving Developers: Abusing Legitimate GitHub Repositories to Deliver Malware / Theo Webb](https://jsac.jpcert.or.jp/archive/2026/pdf/JSAC2026_LT_4_theo_webb_en.pdf)
 	* https://jsac.jpcert.or.jp/
