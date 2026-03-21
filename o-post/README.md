@@ -8,9 +8,11 @@ hinoshiba.com./o-post/
 # 記事/活動一覧
 
 
+* 2026/04/16: event: [GPUGate: Repo Squatting and OpenCL Anti-Analysis to Deliver HijackLoader](https://cfp.botconf.org/botconf-2026/talk/HKUTDC/)
 * 2026/03: coop: [日ASEANサイバーセキュリティ能力構築センター（AJCCBC）における官民連携による演習実施](https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00278.html)
 * 2026/02: ans: [EduTownあしたね > 守りのプロフェッショナル](https://ashitane.edutown.jp/safety/)
-* 2026/01: coop: [Deceiving Developers: Abusing Legitimate GitHub Repositories to Deliver Malware / Theo Webb](https://jsac.jpcert.or.jp/archive/2026/pdf/JSAC2026_LT_4_theo_webb_en.pdf)
+* 2026/01/29: coop: [情報セキュリティ10大脅威 2026](https://www.ipa.go.jp/security/10threats/10threats2026.html)
+* 2026/01/23: coop: [Deceiving Developers: Abusing Legitimate GitHub Repositories to Deliver Malware / Theo Webb](https://jsac.jpcert.or.jp/archive/2026/pdf/JSAC2026_LT_4_theo_webb_en.pdf)
 	* https://jsac.jpcert.or.jp/
 * 2025/11/16: event: [NIPPON IT チャリティ駅伝 第 13 回｜2024](https://www.nit-run.com/file/nit_run2024_result.pdf)
 	* タイム 00:13:13 / チームNo. 74
