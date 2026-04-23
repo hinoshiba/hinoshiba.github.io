@@ -7,8 +7,10 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
-
-* 2026/04/16: event: [GPUGate: Repo Squatting and OpenCL Anti-Analysis to Deliver HijackLoader](https://cfp.botconf.org/botconf-2026/talk/HKUTDC/)
+* 2026/04/19: event: [TEDxUTokyo 2026 / GMO流ハッキング演習 with AI ～入門編～](https://events.tedxutokyo.com/main2026/contents.html#workshops)
+* 2026/04/17: book: [Software Design 2026年5月号](https://gihyo.jp/magazine/SD/archive/2026/202605)
+    * 押し上げろ！サイバーセキュリティ！ GitHub の利用者が狙われる!?　最近の攻撃事例と防御
+* 2026/04/16: event: [BotConf2026 / GPUGate: Repo Squatting and OpenCL Anti-Analysis to Deliver HijackLoader](https://cfp.botconf.org/botconf-2026/talk/HKUTDC/)
 * 2026/03: coop: [日ASEANサイバーセキュリティ能力構築センター（AJCCBC）における官民連携による演習実施](https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00278.html)
 * 2026/02: ans: [EduTownあしたね > 守りのプロフェッショナル](https://ashitane.edutown.jp/safety/)
 * 2026/01/29: coop: [情報セキュリティ10大脅威 2026](https://www.ipa.go.jp/security/10threats/10threats2026.html)
@@ -93,6 +95,7 @@ hinoshiba.com./o-post/
 
 |カテゴリ|説明|
 |:---:|:---|
+|book|執筆/寄稿|
 |event|参加/登壇 したイベント|
 |blog|自身で文章を作成した記事やブログなどのページ|
 |textbook|自身で文章を作成した教材|
