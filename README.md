@@ -7,6 +7,10 @@
 
 ## [自身のブログ(./post/)](./post/README.md)
 
+## tools
+
+- [Cyber Security Certification Roadmap by hinoshiba, built with Claude](https://www.hinoshiba.com/CyberSecurityCertificationRoadmap/?theme=light&lang=en&jp=1)
+
 ## その他のリンク
 * [notion: public_docs/](https://hinoshiba.notion.site/public-memo-1482fd7b67a88024a20bf4b9f7214054)
 	* 個人のメモなど
