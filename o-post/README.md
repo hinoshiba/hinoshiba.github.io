@@ -7,6 +7,10 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* 2026/06/02: event [GMO IERAE HackNight #4 AI時代のセキュリティ攻防戦 / 激増するAI悪用攻撃に対抗する守りのAI活用最前線](https://ierae.connpass.com/event/391105/)
+* 2026/05/19: book [Software Design 2026年6月号](https://gihyo.jp/magazine/SD/archive/2026/202606)
+* 2026/05/14: blog [BotConf 2026 登壇報告: GPUGate: Repo SquattingとOpenCL解析回避によるHijackLoaderの配送](https://gmo-cybersecurity.com/blog/botconf-2026-report-gpugate-repo-squatting-and-opencl-anti-analysis-to-deliver-hijackloader/)
+    * 押し上げろ！サイバーセキュリティ！ 攻撃者は、あらゆる「隙」を狙っている
 * 2026/04/19: event: [TEDxUTokyo 2026 / GMO流ハッキング演習 with AI ～入門編～](https://events.tedxutokyo.com/main2026/contents.html#workshops)
 * 2026/04/17: book: [Software Design 2026年5月号](https://gihyo.jp/magazine/SD/archive/2026/202605)
     * 押し上げろ！サイバーセキュリティ！ GitHub の利用者が狙われる!?　最近の攻撃事例と防御
