@@ -5,6 +5,7 @@ skills
 
 |履歴書記入|年|月|免許・資格・学歴・職歴|
 |:---:|:---:|:---:|:---|
+|o|2026|05|OffSec Experienced Penetration Tester (OSEP) 取得|
 | |2026|04|Offsec Kali Linux Certified Professional (KLCP) 取得|
 |o|2026|03|放送大学 教養学部教養学科 情報コース 卒業 |
 |o|2026|03|OffSec Web Expert (OSWE) 取得|
