@@ -8,7 +8,7 @@ hinoshiba.com./o-post/
 # 記事/活動一覧
 
 * 2026/06/02: event [GMO IERAE HackNight #4 AI時代のセキュリティ攻防戦 / 激増するAI悪用攻撃に対抗する守りのAI活用最前線](https://ierae.connpass.com/event/391105/)
-    * slide: https://www.docswell.com/s/ierae/Z3JE11-hacknight04-ds
+    * slide: [https://www.docswell.com/s/ierae/Z3JE11-hacknight04-ds](https://www.docswell.com/s/ierae/Z3JE11-hacknight04-ds)
 * 2026/05/19: book [Software Design 2026年6月号](https://gihyo.jp/magazine/SD/archive/2026/202606)
     * 押し上げろ！サイバーセキュリティ！ 攻撃者は、あらゆる「隙」を狙っている
 * 2026/05/12: event [GMOサイバーセキュリティ byイエラエ、陸上自衛隊高等工科学校で「ITリテラシー・サイバーセキュリティ講話」を実施](https://prtimes.jp/main/html/rd/p/000005392.000000136.html)
