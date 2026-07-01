@@ -7,11 +7,16 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* 2026/07/04: event: [Hardening Designers Conference 2026 / ポストSIEM時代のセキュリティオペレーション ― データレークとAI分析は崩壊を防げるか](https://hardening.doorkeeper.jp/events/196978)
+    * https://gmo-cybersecurity.com/news/20260629/
+* 2026/07/02: event: [JNSA セキュリティ カフェ 2026 #1 / 「OBOG講話　セキュリティ業界の魅力とは？」-業界で活躍する先輩たちのトーク-](https://www.jnsa.org/seminar/seccafe/202607/index.html)
+    * https://gmo-cybersecurity.com/news/20260630/
+* 2026/06: coop: [JNSA産学連携プロジェクト / WiZ 国際情報工科自動車大学校 - セキュリティテクノロジー授業](https://x.com/wizfsg/status/2071887957145821350?s=20)
 * 2026/06/02: event [GMO IERAE HackNight #4 AI時代のセキュリティ攻防戦 / 激増するAI悪用攻撃に対抗する守りのAI活用最前線](https://ierae.connpass.com/event/391105/)
     * slide: [https://www.docswell.com/s/ierae/Z3JE11-hacknight04-ds](https://www.docswell.com/s/ierae/Z3JE11-hacknight04-ds)
-* 2026/05/19: book [Software Design 2026年6月号](https://gihyo.jp/magazine/SD/archive/2026/202606)
+* 2026/05/19: book: [Software Design 2026年6月号](https://gihyo.jp/magazine/SD/archive/2026/202606)
     * 押し上げろ！サイバーセキュリティ！ 攻撃者は、あらゆる「隙」を狙っている
-* 2026/05/12: event [GMOサイバーセキュリティ byイエラエ、陸上自衛隊高等工科学校で「ITリテラシー・サイバーセキュリティ講話」を実施](https://prtimes.jp/main/html/rd/p/000005392.000000136.html)
+* 2026/05/12: event: [GMOサイバーセキュリティ byイエラエ、陸上自衛隊高等工科学校で「ITリテラシー・サイバーセキュリティ講話」を実施](https://prtimes.jp/main/html/rd/p/000005392.000000136.html)
 * 2026/05/14: blog [Botconf 2026 登壇報告: GPUGate: Repo SquattingとOpenCL解析回避によるHijackLoaderの配送](https://gmo-cybersecurity.com/blog/botconf-2026-report-gpugate-repo-squatting-and-opencl-anti-analysis-to-deliver-hijackloader/)
 * 2026/04/19: event: [TEDxUTokyo 2026 / GMO流ハッキング演習 with AI ～入門編～](https://events.tedxutokyo.com/main2026/contents.html#workshops)
 * 2026/04/17: book: [Software Design 2026年5月号](https://gihyo.jp/magazine/SD/archive/2026/202605)
@@ -102,7 +107,7 @@ hinoshiba.com./o-post/
 |カテゴリ|説明|
 |:---:|:---|
 |book|執筆/寄稿|
-|event|参加/登壇 したイベント|
+|event|参加/登壇 した活動|
 |blog|自身で文章を作成した記事やブログなどのページ|
 |textbook|自身で文章を作成した教材|
 |slide|自身で作成したスライド|
