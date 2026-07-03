@@ -7,6 +7,8 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* 2026/07/17: book: [Software Design 2026年8月号](https://gihyo.jp/magazine/SD/archive/2026/202608)
+    * 押し上げろ！サイバーセキュリティ！ セキュリティ防御に「特効薬」がない理由。WAFから考えるチューニングの大切さ
 * 2026/07/04: event: [Hardening Designers Conference 2026 / ポストSIEM時代のセキュリティオペレーション ― データレークとAI分析は崩壊を防げるか](https://hardening.doorkeeper.jp/events/196978)
     * https://gmo-cybersecurity.com/news/20260629/
 * 2026/07/02: event: [JNSA セキュリティ カフェ 2026 #1 / 「OBOG講話　セキュリティ業界の魅力とは？」-業界で活躍する先輩たちのトーク-](https://www.jnsa.org/seminar/seccafe/202607/index.html)
@@ -15,12 +17,12 @@ hinoshiba.com./o-post/
 * 2026/06/02: event [GMO IERAE HackNight #4 AI時代のセキュリティ攻防戦 / 激増するAI悪用攻撃に対抗する守りのAI活用最前線](https://ierae.connpass.com/event/391105/)
     * slide: [https://www.docswell.com/s/ierae/Z3JE11-hacknight04-ds](https://www.docswell.com/s/ierae/Z3JE11-hacknight04-ds)
 * 2026/05/19: book: [Software Design 2026年6月号](https://gihyo.jp/magazine/SD/archive/2026/202606)
-    * 押し上げろ！サイバーセキュリティ！ 攻撃者は、あらゆる「隙」を狙っている
+    * [押し上げろ！サイバーセキュリティ！ 攻撃者は、あらゆる「隙」を狙っている](https://ndlsearch.ndl.go.jp/books/R000000004-I034724574)
 * 2026/05/12: event: [GMOサイバーセキュリティ byイエラエ、陸上自衛隊高等工科学校で「ITリテラシー・サイバーセキュリティ講話」を実施](https://prtimes.jp/main/html/rd/p/000005392.000000136.html)
 * 2026/05/14: blog [Botconf 2026 登壇報告: GPUGate: Repo SquattingとOpenCL解析回避によるHijackLoaderの配送](https://gmo-cybersecurity.com/blog/botconf-2026-report-gpugate-repo-squatting-and-opencl-anti-analysis-to-deliver-hijackloader/)
 * 2026/04/19: event: [TEDxUTokyo 2026 / GMO流ハッキング演習 with AI ～入門編～](https://events.tedxutokyo.com/main2026/contents.html#workshops)
 * 2026/04/17: book: [Software Design 2026年5月号](https://gihyo.jp/magazine/SD/archive/2026/202605)
-    * 押し上げろ！サイバーセキュリティ！ GitHub の利用者が狙われる!?　最近の攻撃事例と防御
+    * [押し上げろ！サイバーセキュリティ！ GitHub の利用者が狙われる!?　最近の攻撃事例と防御](https://ndlsearch.ndl.go.jp/books/R000000004-I034699213)
 * 2026/04/16: event: [Botconf2026 / GPUGate: Repo Squatting and OpenCL Anti-Analysis to Deliver HijackLoader](https://cfp.botconf.org/botconf-2026/talk/HKUTDC/)
 * 2026/03: coop: [日ASEANサイバーセキュリティ能力構築センター（AJCCBC）における官民連携による演習実施](https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00278.html)
 * 2026/02: ans: [EduTownあしたね > 守りのプロフェッショナル](https://ashitane.edutown.jp/safety/)
