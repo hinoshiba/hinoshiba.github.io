@@ -1,7 +1,8 @@
 ./ (top page)
 ===
 
-## [AboutMe](./aboutme.md)
+## [AboutMe](https://hinoshiba.ai.studio/)
+### [AboutMe(legacy)](./aboutme.md)
 
 ## [活動一覧(./o-post/)](./o-post/README.md)
 
@@ -10,6 +11,7 @@
 ## tools
 
 - [Cyber Security Certification Roadmap by hinoshiba, built with Claude](./CyberSecurityCertificationRoadmap/?theme=light&lang=en&jp=1)
+- [Youyaku 声で、AIに指示を。話すだけで、ローカルAIが“AIに伝わる指示文”へ整える。](https://youyaku.hinoshiba.com/)
 
 ## その他のリンク
 * [notion: public_docs/](https://hinoshiba.notion.site/public-memo-1482fd7b67a88024a20bf4b9f7214054)
