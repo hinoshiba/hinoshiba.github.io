@@ -17,6 +17,7 @@ hinoshibaか、ShungoKumasaka([芸名？](https://hinoshiba.hatenablog.com/entry
 ## 連絡先(Contacts)
 1. [Twitter](https://twitter.com/hinoshiba)
 	* DM or 公開リプライ
+2. [LinkedIn](https://www.linkedin.com/in/shungo-kumasaka-b09a1229a/)
 2. E-MAIL:`s.k.noe@hinoshiba.com`
 	* [公開鍵はこちら](./pubkeys/)
 
