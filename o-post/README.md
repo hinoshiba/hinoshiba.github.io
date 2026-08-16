@@ -7,6 +7,10 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* 2026/08/18: book: [Software Design 2026年9月号](https://gihyo.jp/magazine/SD/archive/2026/202609)
+    * 押し上げろ！サイバーセキュリティ！賢いAIにはどこまで任せるべき？　信頼境界で考えるAI防御
+* 2026/08/10: event: [DEFCON 2026 Blue Team Village CTF 4位](https://compete.metactf.com/634/scoreboard)
+    * https://x.com/gmo_ierae/status/2086628231969743180
 * 2026/07/17: book: [Software Design 2026年8月号](https://gihyo.jp/magazine/SD/archive/2026/202608)
     * 押し上げろ！サイバーセキュリティ！ セキュリティ防御に「特効薬」がない理由。WAFから考えるチューニングの大切さ
 * 2026/07/04: event: [Hardening Designers Conference 2026 / ポストSIEM時代のセキュリティオペレーション ― データレークとAI分析は崩壊を防げるか](https://hardening.doorkeeper.jp/events/196978)
