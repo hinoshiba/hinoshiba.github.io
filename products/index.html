@@ -11,7 +11,7 @@ description: hinoshiba がつくる、暮らしと仕事のためのアプリと
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | escape }}</title>
     <meta name="description" content="{{ page.description | escape }}">
-    <meta name="theme-color" content="#f7f8f5">
+    <meta name="theme-color" content="#19231f">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="ja_JP">
     <meta property="og:site_name" content="hinoshiba.com">
@@ -42,26 +42,29 @@ description: hinoshiba がつくる、暮らしと仕事のためのアプリと
       </div>
     </header>
 
-    <main class="container">
-      <section class="hero" aria-labelledby="page-title">
-        <div class="hero-copy">
-          <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> SMALL TOOLS, MADE BY HINOSHIBA</p>
-          <h1 id="page-title">暮らしと仕事に、<br>小さな工夫を<span class="title-dot">。</span></h1>
-          <p class="hero-description">日々の「あったらいいな」を、アプリやツールに。<br class="desktop-break">hinoshiba がつくっているプロダクトを集めました。</p>
-          <a class="collection-link" href="#collection">プロダクトを見る <span aria-hidden="true">↓</span></a>
-        </div>
-        <div class="hero-art" aria-hidden="true">
-          <div class="art-grid"></div>
-          <div class="app-shelf">
-            {% for product in site.data.products %}
-              <span class="shelf-icon shelf-{{ product.id }}"><img src="{{ '/products/assets/' | append: product.icon | relative_url }}" alt="" width="64" height="64"></span>
-            {% endfor %}
+    <main>
+      <section class="hero-section" aria-labelledby="page-title">
+        <div class="hero container">
+          <div class="hero-copy">
+            <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> SMALL TOOLS, MADE BY HINOSHIBA</p>
+            <h1 id="page-title">暮らしと仕事に、<br>小さな工夫を<span class="title-dot">。</span></h1>
+            <p class="hero-description">日々の「あったらいいな」を、アプリやツールに。<br class="desktop-break">hinoshiba がつくっているプロダクトを集めました。</p>
+            <a class="collection-link" href="#collection">プロダクトを見る <span aria-hidden="true">↓</span></a>
           </div>
-          <span class="art-caption">A LITTLE COLLECTION OF IDEAS</span>
+          <div class="hero-art" aria-hidden="true">
+            <div class="art-toolbar"><span>PRODUCT COLLECTION</span><span>{{ site.data.products | size | prepend: '0' }}</span></div>
+            <div class="art-grid"></div>
+            <div class="app-shelf">
+              {% for product in site.data.products %}
+                <span class="shelf-icon shelf-{{ product.id }}"><img src="{{ '/products/assets/' | append: product.icon | relative_url }}" alt="" width="64" height="64"></span>
+              {% endfor %}
+            </div>
+            <span class="art-caption">A LITTLE COLLECTION OF IDEAS</span>
+          </div>
         </div>
       </section>
 
-      <section id="collection" class="collection" aria-labelledby="collection-title">
+      <section id="collection" class="collection container" aria-labelledby="collection-title">
         <div class="collection-heading">
           <div class="collection-title"><h2 id="collection-title">Products</h2><span class="total-count">{{ site.data.products | size | prepend: '0' }}</span></div>
           <p>あなたの毎日に、ちょうどいい道具を。</p>
@@ -111,7 +114,7 @@ description: hinoshiba がつくる、暮らしと仕事のためのアプリと
         </div>
       </section>
 
-      <aside class="maker" aria-label="つくっている人">
+      <aside class="maker container" aria-label="つくっている人">
         <div class="maker-identity">
           <img src="{{ '/img/avatar.png' | relative_url }}" alt="" width="52" height="52" loading="lazy">
           <div><p class="eyebrow">MADE BY HINOSHIBA</p><p>自分でも使いたいものを、ひとつずつ。</p></div>
