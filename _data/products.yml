@@ -1,0 +1,88 @@
+# Product descriptions and icons are based on each linked official website.
+# Keep availability notes in sync with the official sites when releasing apps.
+- id: daysyet
+  name: DaysYet
+  category: 日々の時間
+  platforms: [ios]
+  platform_label: iPhone / iPad
+  icon: daysyet.png
+  tagline: 大切な日を、いつもの画面に。
+  description: 今週の残り時間も、記念日までの日数も。時間の経過や残りをウィジェットで眺めて、毎日の中にそっと置いておけるアプリです。
+  features: [ウィジェット, カウントダウン, テーマ切り替え]
+  url: https://daysyet.hinoshiba.com/
+  domain: daysyet.hinoshiba.com
+
+- id: bameyasu
+  name: Bameyasu
+  category: 作業環境
+  platforms: [ios]
+  platform_label: iPhone
+  icon: bameyasu.png
+  tagline: 働く場所に、整える目安を。
+  description: 光・音・机の揺れ・姿勢を約60秒で確認。仕事場の状態を見える化し、まず見直すことや、整える前後の変化を確かめられます。
+  features: [環境チェック, 改善のヒント, ビフォー・アフター]
+  url: https://bameyasu.hinoshiba.com/
+  domain: bameyasu.hinoshiba.com
+
+- id: pomogem
+  name: PomoGem
+  reading: ポモジェム
+  category: 集中と習慣
+  platforms: [ios]
+  platform_label: iPhone
+  status: 近日公開
+  icon: pomogem.png
+  tagline: 集中した時間が、宝石になる。
+  description: タイマーを完走するたび、ひとつの宝石が記録に。25・45・60・90分から選んで、日々の集中をコレクションのように積み重ねられます。
+  features: [集中タイマー, 宝石コレクション, 集中の履歴]
+  url: https://pomogem.hinoshiba.com/
+  domain: pomogem.hinoshiba.com
+
+- id: stagepane
+  name: StagePane
+  category: 画面共有
+  platforms: [mac]
+  platform_label: Mac
+  icon: stagepane.svg
+  tagline: 見せたいものを、ひとつの画面へ。
+  description: 複数のウインドウを、共有用のステージにまとめるMacアプリ。配置や切り抜き、手書きを使って、説明しやすい画面をつくれます。
+  features: [ウインドウの配置, 切り抜き・手書き, ステージ画像の保存]
+  url: https://stagepane.hinoshiba.com/
+  domain: stagepane.hinoshiba.com
+
+- id: blurfollow
+  name: BlurFollow
+  category: 共有時のプライバシー
+  platforms: [mac]
+  platform_label: Mac
+  icon: blurfollow.png
+  tagline: 共有する画面に、必要な目隠しを。
+  description: 見せたくない部分に、ぼかしやモザイクを重ねるMacアプリ。ウインドウに追従するマスクと共有プレビューで、画面を整えられます。
+  features: [ウインドウ追従, ぼかし・モザイク, 共有プレビュー]
+  url: https://blurfollow.hinoshiba.com/
+  domain: blurfollow.hinoshiba.com
+
+- id: youyaku
+  name: Youyaku
+  reading: ようやく
+  category: 音声とAI
+  platforms: [ios, mac]
+  platform_label: Mac / iPhone / iPad
+  icon: youyaku.svg
+  tagline: 話した言葉を、伝わる指示に。
+  description: 声を文字に起こし、ローカルAIで読みやすい文章やAIへの指示文に。整文・AI命令化・そのままの3つのモードで、用途に合わせて使えます。
+  features: [音声入力, ローカルAI, 3つの変換モード]
+  url: https://youyaku.hinoshiba.com/
+  domain: youyaku.hinoshiba.com
+
+- id: roadmap
+  name: Cyber Security Certification Roadmap
+  category: セキュリティの学び
+  platforms: [web]
+  platform_label: Web
+  icon: roadmap.svg
+  tagline: 次の学びを、地図から探そう。
+  description: セキュリティ資格を分野やレベルごとに見渡せるロードマップ。資格名やベンダーで絞り込みながら、気になる資格や次の学習テーマを探せます。
+  features: [資格の検索・絞り込み, 日本の資格に対応, 日本語 / English]
+  url: https://www.hinoshiba.com/CyberSecurityCertificationRoadmap/?theme=light&lang=en&jp=1
+  domain: hinoshiba.com

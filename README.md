@@ -8,10 +8,9 @@
 
 ## [自身のブログ(./post/)](./post/README.md)
 
-## tools
+<h2 id="tools"><a href="./products/">プロダクト一覧 (./products/)</a></h2>
 
-- [Cyber Security Certification Roadmap by hinoshiba, built with Claude](./CyberSecurityCertificationRoadmap/?theme=light&lang=en&jp=1)
-- [Youyaku 声で、AIに指示を。話すだけで、ローカルAIが“AIに伝わる指示文”へ整える。](https://youyaku.hinoshiba.com/)
+暮らしや仕事に役立つ、個人開発のアプリとツールを[紹介しています](./products/)。
 
 ## その他のリンク
 * [notion: public_docs/](https://hinoshiba.notion.site/public-memo-1482fd7b67a88024a20bf4b9f7214054)
