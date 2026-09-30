@@ -1,8 +1,7 @@
 ./ (top page)
 ===
 
-## [AboutMe](https://hinoshiba.ai.studio/)
-### [AboutMe(legacy)](./aboutme.md)
+### [AboutMe](./aboutme.md)
 
 ## [活動一覧(./o-post/)](./o-post/README.md)
 
