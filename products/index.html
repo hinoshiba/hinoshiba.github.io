@@ -1,0 +1,131 @@
+---
+layout: null
+permalink: /products/
+title: Products | hinoshiba
+description: hinoshiba がつくる、暮らしと仕事のためのアプリとツール。DaysYet、Bameyasu、PomoGem、StagePane、BlurFollow、Youyaku、セキュリティ資格ロードマップを紹介します。
+---
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | escape }}</title>
+    <meta name="description" content="{{ page.description | escape }}">
+    <meta name="theme-color" content="#19231f">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ja_JP">
+    <meta property="og:site_name" content="hinoshiba.com">
+    <meta property="og:title" content="{{ page.title | escape }}">
+    <meta property="og:description" content="{{ page.description | escape }}">
+    <meta property="og:url" content="https://www.hinoshiba.com/products/">
+    <meta property="og:image" content="https://www.hinoshiba.com/img/avatar.png">
+    <link rel="canonical" href="https://www.hinoshiba.com/products/">
+    <link rel="icon" href="{{ '/img/avatar.png' | relative_url }}" type="image/png">
+    <link rel="stylesheet" href="{{ '/products/products.css' | relative_url }}">
+    <script src="{{ '/products/products.js' | relative_url }}" defer></script>
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+      {% include head-custom-google-analytics.html %}
+    {% endif %}
+  </head>
+  <body>
+    <a class="skip-link" href="#collection">プロダクト一覧へスキップ</a>
+    <header class="site-header">
+      <div class="header-inner container">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="hinoshiba.com ホーム">
+          <span class="brand-mark" aria-hidden="true">h<span>.</span></span>
+          <span>hinoshiba<span class="brand-domain">.com</span></span>
+        </a>
+        <nav class="site-nav" aria-label="メインナビゲーション">
+          <a href="{{ '/products/' | relative_url }}" aria-current="page">Products</a>
+          <a href="{{ '/' | relative_url }}">ホームへ <span aria-hidden="true">↗</span></a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero-section" aria-labelledby="page-title">
+        <div class="hero container">
+          <div class="hero-copy">
+            <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> SMALL TOOLS, MADE BY HINOSHIBA</p>
+            <h1 id="page-title">暮らしと仕事に、<br>小さな工夫を<span class="title-dot">。</span></h1>
+            <p class="hero-description">日々の「あったらいいな」を、アプリやツールに。<br class="desktop-break">hinoshiba がつくっているプロダクトを集めました。</p>
+            <a class="collection-link" href="#collection">プロダクトを見る <span aria-hidden="true">↓</span></a>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="art-toolbar"><span>PRODUCT COLLECTION</span><span>{{ site.data.products | size | prepend: '0' }}</span></div>
+            <div class="art-grid"></div>
+            <div class="app-shelf">
+              {% for product in site.data.products %}
+                <span class="shelf-icon shelf-{{ product.id }}"><img src="{{ '/products/assets/' | append: product.icon | relative_url }}" alt="" width="64" height="64"></span>
+              {% endfor %}
+            </div>
+            <span class="art-caption">A LITTLE COLLECTION OF IDEAS</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="collection" class="collection container" aria-labelledby="collection-title">
+        <div class="collection-heading">
+          <div class="collection-title"><h2 id="collection-title">Products</h2><span class="total-count">{{ site.data.products | size | prepend: '0' }}</span></div>
+          <p>あなたの毎日に、ちょうどいい道具を。</p>
+        </div>
+        <div class="collection-toolbar" hidden>
+          <div class="filters" role="group" aria-label="対応端末で絞り込む">
+            <button type="button" data-filter="all" aria-pressed="true" aria-controls="product-grid">すべて</button>
+            <button type="button" data-filter="ios" aria-pressed="false" aria-controls="product-grid">iPhone / iPad</button>
+            <button type="button" data-filter="mac" aria-pressed="false" aria-controls="product-grid">Mac</button>
+            <button type="button" data-filter="web" aria-pressed="false" aria-controls="product-grid">Web</button>
+          </div>
+          <p class="filter-count" role="status" aria-live="polite" aria-atomic="true"><span id="visible-count">{{ site.data.products | size }}</span> プロダクト</p>
+        </div>
+
+        <div id="product-grid" class="product-grid">
+          {% for product in site.data.products %}
+          <article id="{{ product.id }}" class="product-card product-{{ product.id }}" data-platforms="{{ product.platforms | join: ' ' }}" aria-labelledby="{{ product.id }}-title">
+            <div class="product-art">
+              <span class="product-number" aria-hidden="true">{{ forloop.index | prepend: '0' }} /</span>
+              <span class="category">{{ product.category | escape }}</span>
+              <div class="product-identity">
+                <img class="product-icon" src="{{ '/products/assets/' | append: product.icon | relative_url }}" alt="" width="88" height="88" loading="lazy" decoding="async">
+                <div>
+                  <h3 id="{{ product.id }}-title">{{ product.name | escape }}</h3>
+                  {% if product.reading %}<span class="product-reading">{{ product.reading | escape }}</span>{% endif %}
+                </div>
+              </div>
+              <span class="art-line" aria-hidden="true"></span>
+            </div>
+            <div class="product-body">
+              <div class="product-meta">
+                <span class="platform"><span class="platform-dot" aria-hidden="true"></span>{{ product.platform_label | escape }}</span>
+                {% if product.status %}<span class="release-status">{{ product.status | escape }}</span>{% endif %}
+              </div>
+              <p class="product-tagline">{{ product.tagline | escape }}</p>
+              <p class="product-description">{{ product.description | escape }}</p>
+              <ul class="features" aria-label="{{ product.name | escape }} の特徴">
+                {% for feature in product.features %}<li>{{ feature | escape }}</li>{% endfor %}
+              </ul>
+              <a class="product-link" href="{{ product.url | escape }}" aria-label="{{ product.name | escape }} の公式サイトを見る">
+                <span>公式サイトを見る <span class="product-domain">{{ product.domain | escape }}</span></span>
+                <span class="link-arrow" aria-hidden="true">↗</span>
+              </a>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <aside class="maker container" aria-label="つくっている人">
+        <div class="maker-identity">
+          <img src="{{ '/img/avatar.png' | relative_url }}" alt="" width="52" height="52" loading="lazy">
+          <div><p class="eyebrow">MADE BY HINOSHIBA</p><p>自分でも使いたいものを、ひとつずつ。</p></div>
+        </div>
+        <a href="https://hinoshiba.ai.studio/">つくっている人 <span aria-hidden="true">↗</span></a>
+      </aside>
+    </main>
+
+    <footer class="site-footer container">
+      <span>© {{ 'now' | date: '%Y' }} hinoshiba</span>
+      <a href="{{ '/' | relative_url }}">hinoshiba.com <span aria-hidden="true">↗</span></a>
+    </footer>
+  </body>
+</html>
