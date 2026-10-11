@@ -7,6 +7,7 @@ hinoshiba.com./o-post/
 
 # 記事/活動一覧
 
+* 2026/10/06 - 08: event: [Hardening 2026 Agentic Collapse - マーケットプレイス参加](https://wasforum.jp/hardening-project/hardening-2026-agentic-collapse/)
 * 2026/09/12: coop: [TBS『カバン持ちさせてください！』に当社のホワイトハッカーが出演しました](https://gmo-cybersecurity.com/news/20260914/)
 * 2026/08/18: book: [Software Design 2026年9月号](https://gihyo.jp/magazine/SD/archive/2026/202609)
     * 押し上げろ！サイバーセキュリティ！賢いAIにはどこまで任せるべき？　信頼境界で考えるAI防御

@@ -5,6 +5,8 @@ skills
 
 |履歴書記入|年|月|免許・資格・学歴・職歴|
 |:---:|:---:|:---:|:---|
+|o|2026|09|Offsec AI Red Teamer Plus (OSAI+) 取得|
+| |2026|09|Offsec AI Red Teamer (OSAI) 取得|
 |o|2026|08|OffSec Certified Expert 3 (OSCE3) 取得|
 | |2026|08|OffSec Exploit Developer (OSED) 取得 |
 | |2026|05|OffSec Experienced Penetration Tester (OSEP) 取得|
