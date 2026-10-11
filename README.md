@@ -10,7 +10,7 @@
 ## [プロダクト一覧(./products/)](./products/)
 
 ## その他のリンク
-* [notion: public_docs/](https://hinoshiba.notion.site/public-memo-1482fd7b67a88024a20bf4b9f7214054)
+* [public_docs/](https://www.hinoshiba.com/public_docs/)
 	* 個人のメモなど
 * [notion: public_iCH1family/](https://hinoshiba.notion.site/public-iCH1family-1482fd7b67a880ee8711dbf57af25d18)
 	* 家庭のルールページ
