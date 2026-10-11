@@ -1,0 +1,26 @@
+---
+title: "ジップインバーサミッドジャケット"
+---
+
+<a id="b-1642fd7b67a880fdaa2dc50dd40393f4"></a>
+
+# <strong>ジップインバーサミッドジャケット</strong>
+
+<!-- migration-navigation:start -->
+<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / ジップインバーサミッドジャケット</span>
+<!-- migration-navigation:end -->
+
+- **分類**: 普段着
+- **Status**: Active
+- **運用価格**: ¥11,337
+- **Category**: フリース
+- **参考価格**: 17006
+- **参考アクティブ数**: 2
+- **URL**: [https://www\.amazon\.co\.jp/dp/B0BN5MHBWT/](https://www.amazon.co.jp/dp/B0BN5MHBWT/)
+- **目標耐久年数**: 3
+- **サイズ**: L
+- **メーカー**: NorthFace
+
+<a id="b-1712fd7b67a88043a929c76dac7e1d5e"></a>
+
+毎年8月 or 9月ごろに、その年の新作が出る。1\~2月ごろ売り切れる

@@ -1,0 +1,952 @@
+{
+  "version": 1,
+  "root_id": "1482fd7b-67a8-8024-a20b-f4b9f7214054",
+  "base_url": "https://www.hinoshiba.com/public_docs/",
+  "pages": [
+    {
+      "source_id": "1482fd7b-67a8-8024-a20b-f4b9f7214054",
+      "title": "📝 public/memo",
+      "path": "public_docs/README.md",
+      "original_path": "public_docs/README.md",
+      "navigation_parent": null,
+      "navigation_label": "公開メモ",
+      "sitemap": true
+    },
+    {
+      "source_id": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "title": "👔 普段着管理",
+      "path": "public_docs/clothing/README.md",
+      "original_path": "public_docs/1392fd7b-67a8-804b-879e-d2b8dd8c2f69.md",
+      "navigation_parent": "1482fd7b-67a8-8024-a20b-f4b9f7214054",
+      "navigation_label": "衣服管理",
+      "sitemap": true
+    },
+    {
+      "source_id": "1392fd7b-67a8-80a1-9566-e009dfe29807",
+      "title": "ショートパンツ メンズ カーゴ ハーフパンツ 短パン",
+      "path": "public_docs/clothing/items/converse-cargo-shorts.md",
+      "original_path": "public_docs/1392fd7b-67a8-80a1-9566-e009dfe29807.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "ショートパンツ メンズ カーゴ ハーフパンツ 短パン",
+      "sitemap": true
+    },
+    {
+      "source_id": "1d92fd7b-67a8-800d-895d-c41348eda712",
+      "title": "ジャケット FL Parabola Jacket",
+      "path": "public_docs/clothing/items/fl-parabola-jacket.md",
+      "original_path": "public_docs/1d92fd7b-67a8-800d-895d-c41348eda712.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "ジャケット FL Parabola Jacket",
+      "sitemap": false
+    },
+    {
+      "source_id": "1d92fd7b-67a8-80e1-9874-d3fa8f1dfe0b",
+      "title": "ロングパンツ FL Parabora Pant",
+      "path": "public_docs/clothing/items/fl-parabora-pant.md",
+      "original_path": "public_docs/1d92fd7b-67a8-80e1-9874-d3fa8f1dfe0b.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "ロングパンツ FL Parabora Pant",
+      "sitemap": false
+    },
+    {
+      "source_id": "1d92fd7b-67a8-8079-8ac0-c3b06f387069",
+      "title": "Impact Air カーフスリーブ ハーフタイツ",
+      "path": "public_docs/clothing/items/goldwin-impact-air-calf-sleeve-half-tights.md",
+      "original_path": "public_docs/1d92fd7b-67a8-8079-8ac0-c3b06f387069.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "Impact Air カーフスリーブ ハーフタイツ",
+      "sitemap": true
+    },
+    {
+      "source_id": "1392fd7b-67a8-802c-82fa-ec0882e4b74a",
+      "title": "NEWPORT H2 ニューポート エイチツー RETRO ブラック 27.0 cm",
+      "path": "public_docs/clothing/items/keen-newport-h2-retro.md",
+      "original_path": "public_docs/1392fd7b-67a8-802c-82fa-ec0882e4b74a.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "NEWPORT H2 ニューポート エイチツー RETRO ブラック 27.0 cm",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8002-a438-da4d32c04635",
+      "title": "超耐滑作業靴　ハイグリップ・ザ・フォース　ＮＨＦ－７１０　ホワイト",
+      "path": "public_docs/clothing/items/midori-anzen-nhf-710-work-shoes.md",
+      "original_path": "public_docs/1572fd7b-67a8-8002-a438-da4d32c04635.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "超耐滑作業靴　ハイグリップ・ザ・フォース　ＮＨＦ－７１０　ホワイト",
+      "sitemap": false
+    },
+    {
+      "source_id": "1392fd7b-67a8-80d3-bc17-e6235100fcc5",
+      "title": "ロングパンツ アルパインライトパンツ メンズ 撥水 ストレッチ 静電ケア",
+      "path": "public_docs/clothing/items/north-face-alpine-light-pants.md",
+      "original_path": "public_docs/1392fd7b-67a8-80d3-bc17-e6235100fcc5.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "ロングパンツ アルパインライトパンツ メンズ 撥水 ストレッチ 静電ケア",
+      "sitemap": true
+    },
+    {
+      "source_id": "2b72fd7b-67a8-805e-9372-faad6283bf9b",
+      "title": "エンデュリストレイルグローブ ",
+      "path": "public_docs/clothing/items/north-face-enduris-trail-gloves.md",
+      "original_path": "public_docs/2b72fd7b-67a8-805e-9372-faad6283bf9b.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "エンデュリストレイルグローブ",
+      "sitemap": true
+    },
+    {
+      "source_id": "1d92fd7b-67a8-802d-8095-eb4fdf2164ec",
+      "title": "expedition grid fleece full zip hoodie",
+      "path": "public_docs/clothing/items/north-face-expedition-grid-fleece-full-zip-hoodie.md",
+      "original_path": "public_docs/1d92fd7b-67a8-802d-8095-eb4fdf2164ec.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "expedition grid fleece full zip hoodie",
+      "sitemap": true
+    },
+    {
+      "source_id": "1392fd7b-67a8-803a-83a5-da06a02717fb",
+      "title": "ファイヤーフライインサレーテッドパーカ ユニセックス 撥水 難燃 焚火 キャンプ ブラック M",
+      "path": "public_docs/clothing/items/north-face-firefly-insulated-parka.md",
+      "original_path": "public_docs/1392fd7b-67a8-803a-83a5-da06a02717fb.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "ファイヤーフライインサレーテッドパーカ ユニセックス 撥水 難燃 焚火 キャンプ ブラック M",
+      "sitemap": true
+    },
+    {
+      "source_id": "1392fd7b-67a8-8060-96ff-d4a11c3c0e43",
+      "title": "ジャケット フューチャーライト ドリズルジャケット メンズ NP12114",
+      "path": "public_docs/clothing/items/north-face-futurelight-drizzle-np12114.md",
+      "original_path": "public_docs/1392fd7b-67a8-8060-96ff-d4a11c3c0e43.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "ジャケット フューチャーライト ドリズルジャケット メンズ NP12114",
+      "sitemap": true
+    },
+    {
+      "source_id": "2b72fd7b-67a8-80d4-8a51-eb84a46e2839",
+      "title": "レギンスフューチャーライトトレイルエクスプロールタイツメンズ",
+      "path": "public_docs/clothing/items/north-face-futurelight-trail-explore-tights.md",
+      "original_path": "public_docs/2b72fd7b-67a8-80d4-8a51-eb84a46e2839.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "レギンスフューチャーライトトレイルエクスプロールタイツメンズ",
+      "sitemap": true
+    },
+    {
+      "source_id": "1d92fd7b-67a8-80b4-a092-cbda4a3fffd5",
+      "title": "インフィニティトレイルフーディ",
+      "path": "public_docs/clothing/items/north-face-infinity-trail-hoodie.md",
+      "original_path": "public_docs/1d92fd7b-67a8-80b4-a092-cbda4a3fffd5.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "インフィニティトレイルフーディ",
+      "sitemap": true
+    },
+    {
+      "source_id": "1392fd7b-67a8-80ca-9048-c7d4f0585f6d",
+      "title": "ロングスリーブヌプシコットンティー メンズ オーガニックコットン UVガード",
+      "path": "public_docs/clothing/items/north-face-long-sleeve-nuptse-cotton-t-shirt.md",
+      "original_path": "public_docs/1392fd7b-67a8-80ca-9048-c7d4f0585f6d.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "ロングスリーブヌプシコットンティー メンズ オーガニックコットン UVガード",
+      "sitemap": false
+    },
+    {
+      "source_id": "2b72fd7b-67a8-80ba-8666-db9ea2daa77e",
+      "title": "マウンテンライトジャケット Mountain Light Jacket メンズ",
+      "path": "public_docs/clothing/items/north-face-mountain-light-jacket.md",
+      "original_path": "public_docs/2b72fd7b-67a8-80ba-8666-db9ea2daa77e.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "マウンテンライトジャケット Mountain Light Jacket メンズ",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-804f-adc8-ea07f4251d19",
+      "title": "パーカー リバーシブルテックエアーフーディ メンズ",
+      "path": "public_docs/clothing/items/north-face-reversible-tech-air-hoodie.md",
+      "original_path": "public_docs/1572fd7b-67a8-804f-adc8-ea07f4251d19.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "パーカー リバーシブルテックエアーフーディ メンズ",
+      "sitemap": false
+    },
+    {
+      "source_id": "1392fd7b-67a8-807a-907a-c80202e17baf",
+      "title": "半袖 カットソー Tシャツ ショートスリーブワンポイントグラフィックティー ユニセックス UVガード オーガニックコットン",
+      "path": "public_docs/clothing/items/north-face-short-sleeve-one-point-graphic-t-shirt.md",
+      "original_path": "public_docs/1392fd7b-67a8-807a-907a-c80202e17baf.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "半袖 カットソー Tシャツ ショートスリーブワンポイントグラフィックティー ユニセックス UVガード オーガニックコットン",
+      "sitemap": false
+    },
+    {
+      "source_id": "2b72fd7b-67a8-8055-9826-fe6ef94a3a06",
+      "title": "バーサタイルミッド",
+      "path": "public_docs/clothing/items/north-face-versatile-mid-shorts.md",
+      "original_path": "public_docs/2b72fd7b-67a8-8055-9826-fe6ef94a3a06.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "バーサタイルミッド",
+      "sitemap": true
+    },
+    {
+      "source_id": "1642fd7b-67a8-80fd-aa2d-c50dd40393f4",
+      "title": "ジップインバーサミッドジャケット",
+      "path": "public_docs/clothing/items/north-face-zip-in-versa-mid-jacket.md",
+      "original_path": "public_docs/1642fd7b-67a8-80fd-aa2d-c50dd40393f4.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "ジップインバーサミッドジャケット",
+      "sitemap": true
+    },
+    {
+      "source_id": "1392fd7b-67a8-80c1-abf0-f82b3cb498a7",
+      "title": "クルーネックT（長袖）",
+      "path": "public_docs/clothing/items/uniqlo-425213-crew-neck-long-sleeve.md",
+      "original_path": "public_docs/1392fd7b-67a8-80c1-abf0-f82b3cb498a7.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "クルーネックT（長袖）",
+      "sitemap": false
+    },
+    {
+      "source_id": "1392fd7b-67a8-80b1-a493-c2d2027847e3",
+      "title": "スウェットフルジップパーカ(黒)",
+      "path": "public_docs/clothing/items/uniqlo-460324-full-zip-sweat-hoodie.md",
+      "original_path": "public_docs/1392fd7b-67a8-80b1-a493-c2d2027847e3.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "スウェットフルジップパーカ(黒)",
+      "sitemap": false
+    },
+    {
+      "source_id": "1392fd7b-67a8-80e0-a3a2-ea95a04c6e85",
+      "title": " Tシャツ 441101 メンズ",
+      "path": "public_docs/clothing/items/united-athle-441101-t-shirt.md",
+      "original_path": "public_docs/1392fd7b-67a8-80e0-a3a2-ea95a04c6e85.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "Tシャツ 441101 メンズ",
+      "sitemap": true
+    },
+    {
+      "source_id": "1392fd7b-67a8-80bf-a354-d27f8ee75e48",
+      "title": "大人 オシャレ ウォーリー サンリオ 女の子 キャスキッドソン エレガンス 504401",
+      "path": "public_docs/clothing/items/united-athle-504401-long-sleeve.md",
+      "original_path": "public_docs/1392fd7b-67a8-80bf-a354-d27f8ee75e48.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "大人 オシャレ ウォーリー サンリオ 女の子 キャスキッドソン エレガンス 504401",
+      "sitemap": false
+    },
+    {
+      "source_id": "1392fd7b-67a8-8027-8e1b-c068b8623a13",
+      "title": "6.2オンス プレミアム Tシャツ 594201",
+      "path": "public_docs/clothing/items/united-athle-594201-premium-t-shirt.md",
+      "original_path": "public_docs/1392fd7b-67a8-8027-8e1b-c068b8623a13.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "6.2オンス プレミアム Tシャツ 594201",
+      "sitemap": true
+    },
+    {
+      "source_id": "1392fd7b-67a8-8095-8832-c202ca83b808",
+      "title": "Tシャツ 9.1oz ﾋﾞｯｸﾞﾛﾝT(2.1ｲﾝﾁﾘﾌﾞ)",
+      "path": "public_docs/clothing/items/united-athle-9-1oz-big-long-sleeve-t-shirt.md",
+      "original_path": "public_docs/1392fd7b-67a8-8095-8832-c202ca83b808.md",
+      "navigation_parent": "1392fd7b-67a8-804b-879e-d2b8dd8c2f69",
+      "navigation_label": "Tシャツ 9.1oz ﾋﾞｯｸﾞﾛﾝT(2.1ｲﾝﾁﾘﾌﾞ)",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80d2-8512-f7600622e2d4",
+      "title": "🎮 ゲーム",
+      "path": "public_docs/games/README.md",
+      "original_path": "public_docs/1572fd7b-67a8-80d2-8512-f7600622e2d4.md",
+      "navigation_parent": "1482fd7b-67a8-8024-a20b-f4b9f7214054",
+      "navigation_label": "ゲーム",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8005-8699-d7998dbd0281",
+      "title": "GTA5",
+      "path": "public_docs/games/gta5.md",
+      "original_path": "public_docs/1572fd7b-67a8-8005-8699-d7998dbd0281.md",
+      "navigation_parent": "1572fd7b-67a8-80d2-8512-f7600622e2d4",
+      "navigation_label": "GTA5",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-8028-bdc9-dc7830d7f0ee",
+      "title": "🚗 ロケットリーグ設定",
+      "path": "public_docs/games/rocket-league-settings.md",
+      "original_path": "public_docs/1562fd7b-67a8-8028-bdc9-dc7830d7f0ee.md",
+      "navigation_parent": "1572fd7b-67a8-80d2-8512-f7600622e2d4",
+      "navigation_label": "🚗 ロケットリーグ設定",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "title": "💻 IT関係",
+      "path": "public_docs/it/README.md",
+      "original_path": "public_docs/1562fd7b-67a8-8018-bf8e-de404ad8c5c8.md",
+      "navigation_parent": "1482fd7b-67a8-8024-a20b-f4b9f7214054",
+      "navigation_label": "IT",
+      "sitemap": true
+    },
+    {
+      "source_id": "3042fd7b-67a8-8099-bf62-e5f72d653388",
+      "title": "AI",
+      "path": "public_docs/it/ai/README.md",
+      "original_path": "public_docs/3042fd7b-67a8-8099-bf62-e5f72d653388.md",
+      "navigation_parent": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "navigation_label": "AI",
+      "sitemap": true
+    },
+    {
+      "source_id": "30f2fd7b-67a8-8013-a675-fb844dfbec54",
+      "title": "Claude",
+      "path": "public_docs/it/ai/claude-tips.md",
+      "original_path": "public_docs/30f2fd7b-67a8-8013-a675-fb844dfbec54.md",
+      "navigation_parent": "3042fd7b-67a8-8099-bf62-e5f72d653388",
+      "navigation_label": "Claude",
+      "sitemap": true
+    },
+    {
+      "source_id": "3042fd7b-67a8-8011-a018-fe71351fcdc6",
+      "title": "codex",
+      "path": "public_docs/it/ai/codex-config.md",
+      "original_path": "public_docs/3042fd7b-67a8-8011-a018-fe71351fcdc6.md",
+      "navigation_parent": "3042fd7b-67a8-8099-bf62-e5f72d653388",
+      "navigation_label": "codex",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80d8-bfb0-f9a7f40cbed2",
+      "title": "Docker",
+      "path": "public_docs/it/docker/README.md",
+      "original_path": "public_docs/1572fd7b-67a8-80d8-bfb0-f9a7f40cbed2.md",
+      "navigation_parent": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "navigation_label": "Docker",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-800c-a5c0-c00b8f24ebda",
+      "title": "クロスコンパイル",
+      "path": "public_docs/it/docker/multi-platform-build.md",
+      "original_path": "public_docs/1572fd7b-67a8-800c-a5c0-c00b8f24ebda.md",
+      "navigation_parent": "1572fd7b-67a8-80d8-bfb0-f9a7f40cbed2",
+      "navigation_label": "クロスコンパイル",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8026-ab8e-e25a68c85a08",
+      "title": "imageからdockerfile復元",
+      "path": "public_docs/it/docker/recover-dockerfile.md",
+      "original_path": "public_docs/1572fd7b-67a8-8026-ab8e-e25a68c85a08.md",
+      "navigation_parent": "1572fd7b-67a8-80d8-bfb0-f9a7f40cbed2",
+      "navigation_label": "imageからdockerfile復元",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8087-a906-fb289fcb15be",
+      "title": "docker 全部削除系",
+      "path": "public_docs/it/docker/remove-containers-images.md",
+      "original_path": "public_docs/1572fd7b-67a8-8087-a906-fb289fcb15be.md",
+      "navigation_parent": "1572fd7b-67a8-80d8-bfb0-f9a7f40cbed2",
+      "navigation_label": "docker 全部削除系",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8089-a47d-f6131bc1368b",
+      "title": "Git",
+      "path": "public_docs/it/git/README.md",
+      "original_path": "public_docs/1572fd7b-67a8-8089-a47d-f6131bc1368b.md",
+      "navigation_parent": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "navigation_label": "Git",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80b1-9358-e6ba2e8fbc32",
+      "title": "localbranchの一括削除",
+      "path": "public_docs/it/git/prune-local-branches.md",
+      "original_path": "public_docs/1572fd7b-67a8-80b1-9358-e6ba2e8fbc32.md",
+      "navigation_parent": "1572fd7b-67a8-8089-a47d-f6131bc1368b",
+      "navigation_label": "localbranchの一括削除",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8049-832e-f82cc2a218b1",
+      "title": "GPG",
+      "path": "public_docs/it/gpg/README.md",
+      "original_path": "public_docs/1572fd7b-67a8-8049-832e-f82cc2a218b1.md",
+      "navigation_parent": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "navigation_label": "GPG",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8014-b50b-dbd1048204b9",
+      "title": "GPG保管",
+      "path": "public_docs/it/gpg/backup-restore-keys.md",
+      "original_path": "public_docs/1572fd7b-67a8-8014-b50b-dbd1048204b9.md",
+      "navigation_parent": "1572fd7b-67a8-8049-832e-f82cc2a218b1",
+      "navigation_label": "GPG保管",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80b1-b6f8-eb1d112f6260",
+      "title": "gpg作成",
+      "path": "public_docs/it/gpg/create-key.md",
+      "original_path": "public_docs/1572fd7b-67a8-80b1-b6f8-eb1d112f6260.md",
+      "navigation_parent": "1572fd7b-67a8-8049-832e-f82cc2a218b1",
+      "navigation_label": "gpg作成",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80eb-be4f-f2af117ba46e",
+      "title": "github登録と、gitでの利用設定",
+      "path": "public_docs/it/gpg/github-git-signing.md",
+      "original_path": "public_docs/1572fd7b-67a8-80eb-be4f-f2af117ba46e.md",
+      "navigation_parent": "1572fd7b-67a8-8049-832e-f82cc2a218b1",
+      "navigation_label": "github登録と、gitでの利用設定",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80a3-b6a2-f8aca4760c0f",
+      "title": "gpg revoke",
+      "path": "public_docs/it/gpg/revoke-key.md",
+      "original_path": "public_docs/1572fd7b-67a8-80a3-b6a2-f8aca4760c0f.md",
+      "navigation_parent": "1572fd7b-67a8-8049-832e-f82cc2a218b1",
+      "navigation_label": "gpg revoke",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "title": "Linux",
+      "path": "public_docs/it/linux/README.md",
+      "original_path": "public_docs/1572fd7b-67a8-8050-a862-f0c2072a74ff.md",
+      "navigation_parent": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "navigation_label": "Linux",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-801d-bdc4-c457efa887d0",
+      "title": "userとsudo の追加",
+      "path": "public_docs/it/linux/add-user-sudo.md",
+      "original_path": "public_docs/1562fd7b-67a8-801d-bdc4-c457efa887d0.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "userとsudo の追加",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8086-9d37-e3f6d0cf8938",
+      "title": "secureerase",
+      "path": "public_docs/it/linux/ata-secure-erase.md",
+      "original_path": "public_docs/1572fd7b-67a8-8086-9d37-e3f6d0cf8938.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "secureerase",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-802b-9dbd-d4e6e4429117",
+      "title": "bashのflock",
+      "path": "public_docs/it/linux/bash-flock.md",
+      "original_path": "public_docs/1572fd7b-67a8-802b-9dbd-d4e6e4429117.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "bashのflock",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-806e-99e9-da8bb8f9d751",
+      "title": "host名変更",
+      "path": "public_docs/it/linux/change-hostname.md",
+      "original_path": "public_docs/1562fd7b-67a8-806e-99e9-da8bb8f9d751.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "host名変更",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-8039-acf9-ebd6561a4d9e",
+      "title": "chonryd",
+      "path": "public_docs/it/linux/chrony-time-sync.md",
+      "original_path": "public_docs/1562fd7b-67a8-8039-acf9-ebd6561a4d9e.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "chonryd",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8065-a905-d41f411c3de3",
+      "title": "lvm最大化",
+      "path": "public_docs/it/linux/expand-lvm-volume.md",
+      "original_path": "public_docs/1572fd7b-67a8-8065-a905-d41f411c3de3.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "lvm最大化",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-80b2-873a-e402e9ed8f96",
+      "title": "langageUpdate",
+      "path": "public_docs/it/linux/japanese-locale.md",
+      "original_path": "public_docs/1562fd7b-67a8-80b2-873a-e402e9ed8f96.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "langageUpdate",
+      "sitemap": true
+    },
+    {
+      "source_id": "2472fd7b-67a8-806d-be93-cc8cb835c777",
+      "title": "🛡️ Kali Linux",
+      "path": "public_docs/it/linux/kali-linux-setup.md",
+      "original_path": "public_docs/2472fd7b-67a8-806d-be93-cc8cb835c777.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "🛡️ Kali Linux",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-808f-a0c1-ccef51b3187b",
+      "title": "kvm",
+      "path": "public_docs/it/linux/kvm-serial-console.md",
+      "original_path": "public_docs/1572fd7b-67a8-808f-a0c1-ccef51b3187b.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "kvm",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-805d-a1ea-e6461966e1ea",
+      "title": "ssl証明書オペレーション",
+      "path": "public_docs/it/linux/letsencrypt-wildcard-certificates.md",
+      "original_path": "public_docs/1572fd7b-67a8-805d-a1ea-e6461966e1ea.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "ssl証明書オペレーション",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8056-bde4-c496706fab41",
+      "title": "uuidでmount",
+      "path": "public_docs/it/linux/mount-by-uuid.md",
+      "original_path": "public_docs/1572fd7b-67a8-8056-bde4-c496706fab41.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "uuidでmount",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8043-b3a6-dd4ac27ef5fd",
+      "title": "mysql復旧/保存方法",
+      "path": "public_docs/it/linux/mysql-backup-restore.md",
+      "original_path": "public_docs/1572fd7b-67a8-8043-b3a6-dd4ac27ef5fd.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "mysql復旧/保存方法",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8085-8405-fedf5a18ffd2",
+      "title": "nfs",
+      "path": "public_docs/it/linux/nfs-client-mount.md",
+      "original_path": "public_docs/1572fd7b-67a8-8085-8405-fedf5a18ffd2.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "nfs",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-80fe-afcc-fbfbe9e49d13",
+      "title": "nftables",
+      "path": "public_docs/it/linux/nftables-firewall.md",
+      "original_path": "public_docs/1562fd7b-67a8-80fe-afcc-fbfbe9e49d13.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "nftables",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80c4-9719-e76cfbb3ac62",
+      "title": "onedriveAtUbuntu",
+      "path": "public_docs/it/linux/onedrive-on-ubuntu.md",
+      "original_path": "public_docs/1572fd7b-67a8-80c4-9719-e76cfbb3ac62.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "onedriveAtUbuntu",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-8023-8435-c0ab62769674",
+      "title": "update ssh config",
+      "path": "public_docs/it/linux/ssh-public-key-auth.md",
+      "original_path": "public_docs/1562fd7b-67a8-8023-8435-c0ab62769674.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "update ssh config",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8079-b1e4-d496aa1d7162",
+      "title": "socks-proxy",
+      "path": "public_docs/it/linux/ssh-socks-proxy.md",
+      "original_path": "public_docs/1572fd7b-67a8-8079-b1e4-d496aa1d7162.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "socks-proxy",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-805b-9da0-c4cc468e6dc2",
+      "title": "timezone jst",
+      "path": "public_docs/it/linux/timezone-jst.md",
+      "original_path": "public_docs/1562fd7b-67a8-805b-9da0-c4cc468e6dc2.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "timezone jst",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-80fd-9969-c8ced2015d46",
+      "title": "apt repostiroy 2 jp",
+      "path": "public_docs/it/linux/ubuntu-apt-mirror-japan.md",
+      "original_path": "public_docs/1562fd7b-67a8-80fd-9969-c8ced2015d46.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "apt repostiroy 2 jp",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-805e-9800-e28cf72a3225",
+      "title": "ゴミ掃除",
+      "path": "public_docs/it/linux/ubuntu-package-cleanup.md",
+      "original_path": "public_docs/1562fd7b-67a8-805e-9800-e28cf72a3225.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "ゴミ掃除",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-80ad-83aa-d5af1acab27b",
+      "title": "gui workstation",
+      "path": "public_docs/it/linux/ubuntu-xfce-workstation.md",
+      "original_path": "public_docs/1562fd7b-67a8-80ad-83aa-d5af1acab27b.md",
+      "navigation_parent": "1572fd7b-67a8-8050-a862-f0c2072a74ff",
+      "navigation_label": "gui workstation",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8089-b8cf-f9f52a1c6f8d",
+      "title": "macOS",
+      "path": "public_docs/it/macos/README.md",
+      "original_path": "public_docs/1572fd7b-67a8-8089-b8cf-f9f52a1c6f8d.md",
+      "navigation_parent": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "navigation_label": "macOS",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-80a6-8257-efc4e1da82e8",
+      "title": "brew(x86) Install onM1",
+      "path": "public_docs/it/macos/homebrew-x86-on-apple-silicon.md",
+      "original_path": "public_docs/1562fd7b-67a8-80a6-8257-efc4e1da82e8.md",
+      "navigation_parent": "1572fd7b-67a8-8089-b8cf-f9f52a1c6f8d",
+      "navigation_label": "brew(x86) Install onM1",
+      "sitemap": true
+    },
+    {
+      "source_id": "16e2fd7b-67a8-80b4-a69a-d51cbffb8e4f",
+      "title": "隠しファイルの表示",
+      "path": "public_docs/it/macos/show-hidden-files.md",
+      "original_path": "public_docs/16e2fd7b-67a8-80b4-a69a-d51cbffb8e4f.md",
+      "navigation_parent": "1572fd7b-67a8-8089-b8cf-f9f52a1c6f8d",
+      "navigation_label": "隠しファイルの表示",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-809a-b0ae-d803fadf3d02",
+      "title": "wezTerm",
+      "path": "public_docs/it/macos/wezterm-config.md",
+      "original_path": "public_docs/1562fd7b-67a8-809a-b0ae-d803fadf3d02.md",
+      "navigation_parent": "1572fd7b-67a8-8089-b8cf-f9f52a1c6f8d",
+      "navigation_label": "wezTerm",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-8086-956e-ef0815a77c62",
+      "title": "🔖 ブックマーク",
+      "path": "public_docs/it/research-bookmarks.md",
+      "original_path": "public_docs/1562fd7b-67a8-8086-956e-ef0815a77c62.md",
+      "navigation_parent": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "navigation_label": "🔖 ブックマーク",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-800a-8989-e157eda68115",
+      "title": "Service",
+      "path": "public_docs/it/services/README.md",
+      "original_path": "public_docs/1572fd7b-67a8-800a-8989-e157eda68115.md",
+      "navigation_parent": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "navigation_label": "Service",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80b7-b9bb-dd59edeb59b8",
+      "title": "minecraft",
+      "path": "public_docs/it/services/minecraft-server.md",
+      "original_path": "public_docs/1572fd7b-67a8-80b7-b9bb-dd59edeb59b8.md",
+      "navigation_parent": "1572fd7b-67a8-800a-8989-e157eda68115",
+      "navigation_label": "minecraft",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8055-91c8-e04ceb3d62d7",
+      "title": "trac",
+      "path": "public_docs/it/services/trac-server.md",
+      "original_path": "public_docs/1572fd7b-67a8-8055-91c8-e04ceb3d62d7.md",
+      "navigation_parent": "1572fd7b-67a8-800a-8989-e157eda68115",
+      "navigation_label": "trac",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-8090-b566-ebc0c0147839",
+      "title": "vim",
+      "path": "public_docs/it/vim/README.md",
+      "original_path": "public_docs/1572fd7b-67a8-8090-b566-ebc0c0147839.md",
+      "navigation_parent": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "navigation_label": "vim",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80bf-b810-c5d12b92dd0e",
+      "title": "文字コード変更",
+      "path": "public_docs/it/vim/convert-encoding.md",
+      "original_path": "public_docs/1572fd7b-67a8-80bf-b810-c5d12b92dd0e.md",
+      "navigation_parent": "1572fd7b-67a8-8090-b566-ebc0c0147839",
+      "navigation_label": "文字コード変更",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80d5-84d4-e3fdb78f294a",
+      "title": "Windows",
+      "path": "public_docs/it/windows/README.md",
+      "original_path": "public_docs/1572fd7b-67a8-80d5-84d4-e3fdb78f294a.md",
+      "navigation_parent": "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+      "navigation_label": "Windows",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-8009-bc34-faa1bbba969d",
+      "title": "日本語関係",
+      "path": "public_docs/it/windows/windows-11-japanese-input.md",
+      "original_path": "public_docs/1562fd7b-67a8-8009-bc34-faa1bbba969d.md",
+      "navigation_parent": "1572fd7b-67a8-80d5-84d4-e3fdb78f294a",
+      "navigation_label": "日本語関係",
+      "sitemap": true
+    },
+    {
+      "source_id": "1ca2fd7b-67a8-8075-9f34-e5c982aa911c",
+      "title": "Windows 11 ローカルアカウント",
+      "path": "public_docs/it/windows/windows-11-local-account.md",
+      "original_path": "public_docs/1ca2fd7b-67a8-8075-9f34-e5c982aa911c.md",
+      "navigation_parent": "1572fd7b-67a8-80d5-84d4-e3fdb78f294a",
+      "navigation_label": "Windows 11 ローカルアカウント",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-8010-89f4-df2fc73025e0",
+      "title": "wsl",
+      "path": "public_docs/it/windows/wsl-setup.md",
+      "original_path": "public_docs/1562fd7b-67a8-8010-89f4-df2fc73025e0.md",
+      "navigation_parent": "1572fd7b-67a8-80d5-84d4-e3fdb78f294a",
+      "navigation_label": "wsl",
+      "sitemap": true
+    },
+    {
+      "source_id": "1482fd7b-67a8-80d3-af10-cfdd377c012c",
+      "title": "📕 知見",
+      "path": "public_docs/life/README.md",
+      "original_path": "public_docs/1482fd7b-67a8-80d3-af10-cfdd377c012c.md",
+      "navigation_parent": "1482fd7b-67a8-8024-a20b-f4b9f7214054",
+      "navigation_label": "生活・アウトドア",
+      "sitemap": true
+    },
+    {
+      "source_id": "16b2fd7b-67a8-80f2-b3cf-f567e0791c09",
+      "title": "🗓️ Calendar Links",
+      "path": "public_docs/life/calendars.md",
+      "original_path": "public_docs/16b2fd7b-67a8-80f2-b3cf-f567e0791c09.md",
+      "navigation_parent": "1482fd7b-67a8-80d3-af10-cfdd377c012c",
+      "navigation_label": "🗓️ Calendar Links",
+      "sitemap": true
+    },
+    {
+      "source_id": "16b2fd7b-67a8-80d0-9437-fd895d912dea",
+      "title": "💸 税金",
+      "path": "public_docs/life/income-tax.md",
+      "original_path": "public_docs/16b2fd7b-67a8-80d0-9437-fd895d912dea.md",
+      "navigation_parent": "1482fd7b-67a8-80d3-af10-cfdd377c012c",
+      "navigation_label": "💸 税金",
+      "sitemap": true
+    },
+    {
+      "source_id": "1642fd7b-67a8-8060-9677-cbe1af95d194",
+      "title": "⛸️ スケート",
+      "path": "public_docs/life/skating/README.md",
+      "original_path": "public_docs/1642fd7b-67a8-8060-9677-cbe1af95d194.md",
+      "navigation_parent": "1482fd7b-67a8-80d3-af10-cfdd377c012c",
+      "navigation_label": "⛸️ スケート",
+      "sitemap": true
+    },
+    {
+      "source_id": "1642fd7b-67a8-8028-bbea-d67c6b0a3746",
+      "title": "📚 スケート勉強",
+      "path": "public_docs/life/skating/practice.md",
+      "original_path": "public_docs/1642fd7b-67a8-8028-bbea-d67c6b0a3746.md",
+      "navigation_parent": "1642fd7b-67a8-8060-9677-cbe1af95d194",
+      "navigation_label": "📚 スケート勉強",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-80c3-97a2-c6b3507fd68e",
+      "title": "⛷️ スキー",
+      "path": "public_docs/life/ski/README.md",
+      "original_path": "public_docs/1572fd7b-67a8-80c3-97a2-c6b3507fd68e.md",
+      "navigation_parent": "1482fd7b-67a8-80d3-af10-cfdd377c012c",
+      "navigation_label": "⛷️ スキー",
+      "sitemap": true
+    },
+    {
+      "source_id": "1532fd7b-67a8-806c-9648-ffb2b6a48a71",
+      "title": "⛷️ スキー初手",
+      "path": "public_docs/life/ski/first-steps.md",
+      "original_path": "public_docs/1532fd7b-67a8-806c-9648-ffb2b6a48a71.md",
+      "navigation_parent": "1572fd7b-67a8-80c3-97a2-c6b3507fd68e",
+      "navigation_label": "⛷️ スキー初手",
+      "sitemap": true
+    },
+    {
+      "source_id": "1482fd7b-67a8-8005-8f71-f171ab9710d1",
+      "title": "⛷️ ガーラ湯沢",
+      "path": "public_docs/life/ski/gala-yuzawa.md",
+      "original_path": "public_docs/1482fd7b-67a8-8005-8f71-f171ab9710d1.md",
+      "navigation_parent": "1572fd7b-67a8-80c3-97a2-c6b3507fd68e",
+      "navigation_label": "⛷️ ガーラ湯沢",
+      "sitemap": true
+    },
+    {
+      "source_id": "1642fd7b-67a8-80db-bc01-c3d14fbdccc8",
+      "title": "📚 スキー勉強",
+      "path": "public_docs/life/ski/practice.md",
+      "original_path": "public_docs/1642fd7b-67a8-80db-bc01-c3d14fbdccc8.md",
+      "navigation_parent": "1572fd7b-67a8-80c3-97a2-c6b3507fd68e",
+      "navigation_label": "📚 スキー勉強",
+      "sitemap": true
+    },
+    {
+      "source_id": "1572fd7b-67a8-808d-a827-ec47f98975fb",
+      "title": "🏫 勉強/作業 場所",
+      "path": "public_docs/life/workspaces.md",
+      "original_path": "public_docs/1572fd7b-67a8-808d-a827-ec47f98975fb.md",
+      "navigation_parent": "1482fd7b-67a8-80d3-af10-cfdd377c012c",
+      "navigation_label": "🏫 勉強/作業 場所",
+      "sitemap": true
+    },
+    {
+      "source_id": "1562fd7b-67a8-805f-a392-eb1b30803940",
+      "title": "🛍️ ヨドバシカメラ",
+      "path": "public_docs/life/yodobashi-order-history.md",
+      "original_path": "public_docs/1562fd7b-67a8-805f-a392-eb1b30803940.md",
+      "navigation_parent": "1482fd7b-67a8-80d3-af10-cfdd377c012c",
+      "navigation_label": "🛍️ ヨドバシカメラ",
+      "sitemap": true
+    }
+  ],
+  "assets": [
+    {
+      "source_block_id": "1392fd7b-67a8-8068-8151-e985c6f05b8f",
+      "owner_page_id": "1392fd7b-67a8-8027-8e1b-c068b8623a13",
+      "path": "public_docs/assets/clothing/united-athle-594201-amazon-product-page.png",
+      "original_path": "public_docs/assets/1392fd7b-67a8-8068-8151-e985c6f05b8f-properties-source.png",
+      "sha256": "163c895317a94e58a722aa05a2c60e56c5f5bf6acaf66c7581e75a1e4f20be9f"
+    },
+    {
+      "source_block_id": "1562fd7b-67a8-8016-84a3-f46014de1662",
+      "owner_page_id": "1562fd7b-67a8-8028-bdc9-dc7830d7f0ee",
+      "path": "public_docs/assets/games/rocket-league/audio.png",
+      "original_path": "public_docs/assets/1562fd7b-67a8-8016-84a3-f46014de1662-properties-source.png",
+      "sha256": "2a31f0af0c44086d4fcaca1c3bec29d99d3f8f6240bd3944961fb435846596d2"
+    },
+    {
+      "source_block_id": "1562fd7b-67a8-8097-aebb-ecefb5a6df39",
+      "owner_page_id": "1562fd7b-67a8-8028-bdc9-dc7830d7f0ee",
+      "path": "public_docs/assets/games/rocket-league/camera.png",
+      "original_path": "public_docs/assets/1562fd7b-67a8-8097-aebb-ecefb5a6df39-properties-source.png",
+      "sha256": "0252ed5d32edc8e054328c560bd0940a9bb30b1a10d52b833277b72228d5c1e2"
+    },
+    {
+      "source_block_id": "1562fd7b-67a8-8067-b5f6-c49dcffc4350",
+      "owner_page_id": "1562fd7b-67a8-8028-bdc9-dc7830d7f0ee",
+      "path": "public_docs/assets/games/rocket-league/chat.png",
+      "original_path": "public_docs/assets/1562fd7b-67a8-8067-b5f6-c49dcffc4350-properties-source.png",
+      "sha256": "a0bbf84e390fb0a71ef8f9ccd80895840c6c1b6c13813e5de05899b320f8ac4b"
+    },
+    {
+      "source_block_id": "1562fd7b-67a8-809b-8267-e1c0c40231aa",
+      "owner_page_id": "1562fd7b-67a8-8028-bdc9-dc7830d7f0ee",
+      "path": "public_docs/assets/games/rocket-league/controls.png",
+      "original_path": "public_docs/assets/1562fd7b-67a8-809b-8267-e1c0c40231aa-properties-source.png",
+      "sha256": "172fe7d2b9a1f751bb7f8b3103df015b53a88170a5df803d51636249cec0d2ce"
+    },
+    {
+      "source_block_id": "1562fd7b-67a8-8098-b02e-dbf7cb73436a",
+      "owner_page_id": "1562fd7b-67a8-8028-bdc9-dc7830d7f0ee",
+      "path": "public_docs/assets/games/rocket-league/gameplay.png",
+      "original_path": "public_docs/assets/1562fd7b-67a8-8098-b02e-dbf7cb73436a-properties-source.png",
+      "sha256": "41c08f0486d93c6e0de7832eabe61c497928d52326b4b60b44991336050c85a0"
+    },
+    {
+      "source_block_id": "1562fd7b-67a8-8080-b7ba-f8aa0d5be8a4",
+      "owner_page_id": "1562fd7b-67a8-8028-bdc9-dc7830d7f0ee",
+      "path": "public_docs/assets/games/rocket-league/interface.png",
+      "original_path": "public_docs/assets/1562fd7b-67a8-8080-b7ba-f8aa0d5be8a4-properties-source.png",
+      "sha256": "3b5bfa34e0e7f578057b3577c905725f6696c3887709c486bbceca19709a3457"
+    },
+    {
+      "source_block_id": "1562fd7b-67a8-8017-862e-ee156ece4039",
+      "owner_page_id": "1562fd7b-67a8-8028-bdc9-dc7830d7f0ee",
+      "path": "public_docs/assets/games/rocket-league/video.png",
+      "original_path": "public_docs/assets/1562fd7b-67a8-8017-862e-ee156ece4039-properties-source.png",
+      "sha256": "ac12de87c623d799187b0f1c6d8ef58864764bac7cdaf70173f2821da281bba9"
+    },
+    {
+      "source_block_id": "1482fd7b-67a8-80eb-a956-cfe76a1a5501",
+      "owner_page_id": "1482fd7b-67a8-8005-8f71-f171ab9710d1",
+      "path": "public_docs/assets/life/gala-yuzawa-rail-lift-search.png",
+      "original_path": "public_docs/assets/1482fd7b-67a8-80eb-a956-cfe76a1a5501-properties-source.png",
+      "sha256": "0f5fb733d7689385063d9c9a46d96fa97b16da39ca5c25e25903f2eda2368dfd"
+    },
+    {
+      "source_block_id": "16b2fd7b-67a8-809f-8a91-e4ff8eb4ad2b",
+      "owner_page_id": "16b2fd7b-67a8-80d0-9437-fd895d912dea",
+      "path": "public_docs/assets/life/income-tax-rate-table.png",
+      "original_path": "public_docs/assets/16b2fd7b-67a8-809f-8a91-e4ff8eb4ad2b-properties-source.png",
+      "sha256": "6f51842d47fa5859c9a06a784987974da4290e71dc99463ed3bfee711114e6e1"
+    }
+  ],
+  "generated_indexes": [],
+  "root_sections": [
+    {
+      "label": "IT",
+      "source_ids": [
+        "1562fd7b-67a8-8018-bf8e-de404ad8c5c8",
+        "1562fd7b-67a8-8086-956e-ef0815a77c62"
+      ]
+    },
+    {
+      "label": "生活・アウトドア",
+      "source_ids": [
+        "1482fd7b-67a8-80d3-af10-cfdd377c012c",
+        "1572fd7b-67a8-808d-a827-ec47f98975fb",
+        "16b2fd7b-67a8-80f2-b3cf-f567e0791c09"
+      ]
+    },
+    {
+      "label": "ゲーム",
+      "source_ids": [
+        "1572fd7b-67a8-80d2-8512-f7600622e2d4"
+      ]
+    },
+    {
+      "label": "衣服管理",
+      "source_ids": [
+        "1392fd7b-67a8-804b-879e-d2b8dd8c2f69"
+      ]
+    }
+  ],
+  "additional_navigation": {
+    "1562fd7b-67a8-8018-bf8e-de404ad8c5c8": [
+      "1562fd7b-67a8-8086-956e-ef0815a77c62"
+    ],
+    "1482fd7b-67a8-80d3-af10-cfdd377c012c": [
+      "1572fd7b-67a8-808d-a827-ec47f98975fb",
+      "16b2fd7b-67a8-80f2-b3cf-f567e0791c09"
+    ]
+  },
+  "legacy_flat_paths_published": false,
+  "accepted_missing_source_asset": {
+    "source_block_id": "1572fd7b-67a8-80c8-a192-f8b2548f67d3",
+    "owner_page_id": "1572fd7b-67a8-8005-8699-d7998dbd0281",
+    "disposition": "Missing-source note and original URL retained; no broken image embed."
+  }
+}

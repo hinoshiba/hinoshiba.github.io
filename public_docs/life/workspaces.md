@@ -1,0 +1,27 @@
+---
+title: "🏫 勉強/作業 場所"
+---
+
+<a id="b-1572fd7b67a8808da827ec47f98975fb"></a>
+
+# 🏫 勉強/作業 場所
+
+<!-- migration-navigation:start -->
+<span class="docs-breadcrumbs">[公開メモ](../README.md) / [生活・アウトドア](README.md) / 🏫 勉強/作業 場所</span>
+<!-- migration-navigation:end -->
+
+<a id="b-1562fd7b67a88032b75dc64d02974131"></a>
+
+<table>
+<tr id="b-1562fd7b67a880debaf3ec7eee6ea773"><td>名称</td><td>時間</td><td>値段</td><td>備考</td><td>分類</td></tr>
+<tr id="b-1562fd7b67a8803b964cdb362c9a3c8c"><td><a href="https://www.airu-studio.com/">アイル</a></td><td>11:00-23:00</td><td>1h 400円<br>3h 1,000円<br>9h以上 2,100円</td><td>-</td><td>シェアオフィス</td></tr>
+<tr id="b-1562fd7b67a88023b7b8cc96b0dec219"><td><a href="https://stayup.jp/">STAYUP</a></td><td>08:30-18:00</td><td>1h 660円1d 2,200円</td><td>冷蔵庫/レンジ有り</td><td>シェアオフィス</td></tr>
+<tr id="b-1562fd7b67a8809cbd24df81dac59b98"><td><a href="https://spa-eas.com/">SPA EAS</a></td><td>09:30-23:00</td><td>一律1,950円</td><td>中入ると出れないので必然的に要外食</td><td>シェアオフィス</td></tr>
+<tr id="b-16b2fd7b67a88011bc1cdab780478017"><td><a href="https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/library/tshokan/minami/">横浜南図書館</a></td><td>火-金<br>09:30-19:00<br>土-月<br>09:30-17:00</td><td>-</td><td>-</td><td>図書館</td></tr>
+<tr id="b-16b2fd7b67a8805f96c0cc371563240a"><td><a href="https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/library/tshokan/central/">横浜中央図書館</a></td><td>火-金<br>09:30-19:00<br>土-月<br>09:30-17:00</td><td>-</td><td>-</td><td>図書館</td></tr>
+<tr id="b-16b2fd7b67a880e3b15ef8aae233faa2"><td><a href="https://www.sc.ouj.ac.jp/center/kanagawa/">放送大学 </a><a href="https://www.sc.ouj.ac.jp/center/kanagawa/"><strong>神奈川学習センター</strong></a></td><td>09:30-17:00</td><td>-</td><td>PC使える部屋(実習室) は、解放日限りあり</td><td>放送大学</td></tr>
+<tr id="b-16b2fd7b67a880c8857fece42e7fe7dd"><td><a href="https://colettemare-yokohama.com/shop/4433/">横浜ブルク13 Cafe OASE</a></td><td>8:30～22:00（L.O.21:30）</td><td>コーヒー 400円</td><td>* 窓側の席、日光が眩しい<br>* 駐輪場 3h無料</td><td>Cafe</td></tr>
+<tr id="b-16b2fd7b67a88060a82fdf0260f2bfbb"><td><a href="https://tabelog.com/kanagawa/A1401/A140306/14088701/"><strong>キーズカフェ 横浜蒔田店</strong></a></td><td>平日<br>10:00 - 20:30<br>土日<br>08:00 - 20:30</td><td>アイスティー 430円</td><td>* 駐輪場 3h無料</td><td>Cafe</td></tr>
+</table>
+
+<a id="b-1572fd7b67a880dc9e87cdefca1f73c6"></a>
