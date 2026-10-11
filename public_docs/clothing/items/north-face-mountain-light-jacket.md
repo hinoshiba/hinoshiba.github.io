@@ -2,13 +2,9 @@
 title: "マウンテンライトジャケット Mountain Light Jacket メンズ"
 ---
 
-<a id="b-2b72fd7b67a880ba8666db9ea2daa77e"></a>
+# **マウンテンライトジャケット Mountain Light Jacket メンズ**
 
-# <strong>マウンテンライトジャケット Mountain Light Jacket メンズ</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / マウンテンライトジャケット Mountain Light Jacket メンズ</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [衣服管理](../README.md) / マウンテンライトジャケット Mountain Light Jacket メンズ
 
 - **分類**: 普段着
 - **Status**: Idea

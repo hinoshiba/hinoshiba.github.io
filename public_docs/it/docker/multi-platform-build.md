@@ -2,36 +2,33 @@
 title: "クロスコンパイル"
 ---
 
-<a id="b-1572fd7b67a8800ca5c0c00b8f24ebda"></a>
-
 # クロスコンパイル
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [Docker](README.md) / クロスコンパイル</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [IT](../README.md) / [Docker](README.md) / クロスコンパイル
 
-- <a id="b-1572fd7b67a88003870adac0d3721b20"></a>対応可能一覧を確認
+- 対応可能一覧を確認
 
-  <a id="b-1572fd7b67a88034ac1ddd1c946046af"></a>
+  `docker buildx ls`
 
-  <code>docker buildx ls</code>
+- build環境の用意
 
-- <a id="b-1572fd7b67a8802f828cde59b3dd25d8"></a>build環境の用意
+  ```sh
+  docker buildx create --name <buildername>
+  docker buildx use <buildername>
+  docker buildx inspect --bootstrap
+  ```
 
-  <a id="b-1572fd7b67a88083a7ddf32d41e1566e"></a>
+- build
 
-  <pre><code class="language-sh">docker buildx create --name &lt;buildername&gt;&#10;docker buildx use &lt;buildername&gt;&#10;docker buildx inspect --bootstrap</code></pre>
+  ```sh
+  docker buildx build --platform linux/arm64,linux/amd64,linux/386,linux/s390x,linux/arm/v7,linux/arm/v6 -t <username>/<image name>:<version> --push .
+  ```
 
-- <a id="b-1572fd7b67a8805a9275c725ebcfa8ba"></a>build
+- build環境の削除
 
-  <a id="b-1572fd7b67a88000924dd7a2d71bd283"></a>
-
-  <pre><code class="language-sh">docker buildx build --platform linux/arm64,linux/amd64,linux/386,linux/s390x,linux/arm/v7,linux/arm/v6 -t &lt;username&gt;/&lt;image name&gt;:&lt;version&gt; --push .</code></pre>
-
-- <a id="b-1572fd7b67a8800ea601fb67dca00cbe"></a>build環境の削除
-
-  <a id="b-1572fd7b67a880118ffacdedd4df1ff3"></a>
-
-  <pre><code class="language-sh">docker buildx use default&#10;docker buildx inspect --bootstrap&#10;docker buildx stop &lt;buildername&gt;&#10;docker buildx rm &lt;buildername&gt;</code></pre>
-
-<a id="b-1572fd7b67a880bf8b01e16f29414e3b"></a>
+  ```sh
+  docker buildx use default
+  docker buildx inspect --bootstrap
+  docker buildx stop <buildername>
+  docker buildx rm <buildername>
+  ```

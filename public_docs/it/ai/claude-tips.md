@@ -2,32 +2,16 @@
 title: "Claude"
 ---
 
-<a id="b-30f2fd7b67a88013a675fb844dfbec54"></a>
-
 # Claude
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [AI](README.md) / Claude</span>
-<!-- migration-navigation:end -->
-
-<a id="b-3162fd7b67a880118d81da80c42cc001"></a>
+[公開メモ](../../README.md) / [IT](../README.md) / [AI](README.md) / Claude
 
 ### 自立型のClaude md
 
-- <a id="b-3162fd7b67a8801da836f114aa86eac5"></a>[https://x\.com/EXM7777/status/2018022297345654870?s=20](https://x.com/EXM7777/status/2018022297345654870?s=20)
-
-<a id="b-30f2fd7b67a880f9b180e56e5dd1e786"></a>
+- [https://x\.com/EXM7777/status/2018022297345654870?s=20](https://x.com/EXM7777/status/2018022297345654870?s=20)
 
 ### tips
 
-<a id="b-30f2fd7b67a880f3a496f9d998112a3a"></a>
-
-起動時のbypassモードを使うには、起動引数 <code>--dangerously-skip-permissions</code>
-
-<a id="b-30f2fd7b67a880e3b84be5390eada969"></a>
-
-<a id="b-30f2fd7b67a880f49089c1eb463d5a90"></a>
+起動時のbypassモードを使うには、起動引数 `--dangerously-skip-permissions`
 
 ### config
-
-<a id="b-30f2fd7b67a88021a959e25fe8136707"></a>

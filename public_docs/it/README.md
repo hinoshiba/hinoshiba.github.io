@@ -3,17 +3,13 @@ title: "💻 IT関係"
 permalink: "/public_docs/it/"
 ---
 
-<a id="b-1562fd7b67a88018bf8ede404ad8c5c8"></a>
-
 # 💻 IT関係
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../README.md) / IT</span>
+[公開メモ](../README.md) / IT
 
-<span class="docs-navigation">目次</span>
+目次
 
 - [🔖 ブックマーク](research-bookmarks.md)
-<!-- migration-navigation:end -->
 
 - [Linux](linux/README.md)
 

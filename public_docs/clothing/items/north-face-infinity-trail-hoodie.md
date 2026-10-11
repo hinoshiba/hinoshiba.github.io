@@ -2,13 +2,9 @@
 title: "インフィニティトレイルフーディ"
 ---
 
-<a id="b-1d92fd7b67a880b4a092cbda4a3fffd5"></a>
+# **インフィニティトレイルフーディ**
 
-# <strong>インフィニティトレイルフーディ</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / インフィニティトレイルフーディ</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [衣服管理](../README.md) / インフィニティトレイルフーディ
 
 - **分類**: 運動着
 - **Status**: Active

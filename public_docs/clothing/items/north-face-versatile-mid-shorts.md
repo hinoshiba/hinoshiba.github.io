@@ -2,13 +2,9 @@
 title: "バーサタイルミッド"
 ---
 
-<a id="b-2b72fd7b67a880559826fe6ef94a3a06"></a>
+# **バーサタイルミッド**
 
-# <strong>バーサタイルミッド</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / バーサタイルミッド</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [衣服管理](../README.md) / バーサタイルミッド
 
 - **分類**: 普段着
 - **Status**: Idea

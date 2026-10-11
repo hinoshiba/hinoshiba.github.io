@@ -2,36 +2,29 @@
 title: "GPG保管"
 ---
 
-<a id="b-1572fd7b67a88014b50bdbd1048204b9"></a>
-
 # GPG保管
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [GPG](README.md) / GPG保管</span>
-<!-- migration-navigation:end -->
-
-<a id="b-1572fd7b67a880c08d73f409abbfe4f4"></a>
+[公開メモ](../../README.md) / [IT](../README.md) / [GPG](README.md) / GPG保管
 
 ## export
 
-<a id="b-1572fd7b67a880b885c5d5d458dab452"></a>
+```sh
+# 公開鍵
+gpg --armor --export <user-id> > public.key
 
-<pre><code class="language-sh"># 公開鍵&#10;gpg --armor --export &lt;user-id&gt; &gt; public.key&#10;&#10;# 秘密鍵&#10;gpg --export-secret-keys --armor &lt;user-id&gt; &gt; privkey.asc</code></pre>
-
-<a id="b-1572fd7b67a880929d39cb2ccc18b3a4"></a>
+# 秘密鍵
+gpg --export-secret-keys --armor <user-id> > privkey.asc
+```
 
 ## import
 
-<a id="b-1572fd7b67a880c4bde5c8c66f88d8e3"></a>
-
-<pre><code class="language-sh">gpg --import public.key&#10;gpg --import privkey.asc</code></pre>
-
-<a id="b-1572fd7b67a880bd8625c6ef6d410943"></a>
+```sh
+gpg --import public.key
+gpg --import privkey.asc
+```
 
 #### trust
 
-<a id="b-1572fd7b67a880e8ab52e6f303c146bb"></a>
-
-<pre><code class="language-sh">gpg --edit-key &lt;GPG key id&gt; trust quit</code></pre>
-
-<a id="b-1572fd7b67a8803ea290d821c00b5ed1"></a>
+```sh
+gpg --edit-key <GPG key id> trust quit
+```

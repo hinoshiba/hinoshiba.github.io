@@ -3,13 +3,9 @@ title: "パーカー リバーシブルテックエアーフーディ メンズ"
 sitemap: false
 ---
 
-<a id="b-1572fd7b67a8804fadc8ea07f4251d19"></a>
+# **パーカー リバーシブルテックエアーフーディ メンズ**
 
-# <strong>パーカー リバーシブルテックエアーフーディ メンズ</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / パーカー リバーシブルテックエアーフーディ メンズ</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [衣服管理](../README.md) / パーカー リバーシブルテックエアーフーディ メンズ
 
 - **Status**: Deactive
 - **運用価格**: ¥52,008

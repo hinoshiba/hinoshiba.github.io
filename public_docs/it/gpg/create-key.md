@@ -2,42 +2,30 @@
 title: "gpg作成"
 ---
 
-<a id="b-1572fd7b67a880b1b6f8eb1d112f6260"></a>
+# **gpg作成**
 
-# <strong>gpg作成</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [GPG](README.md) / gpg作成</span>
-<!-- migration-navigation:end -->
-
-<a id="b-1572fd7b67a880ed8ecde8514049caab"></a>
+[公開メモ](../../README.md) / [IT](../README.md) / [GPG](README.md) / gpg作成
 
 #### 作成
 
-<a id="b-1572fd7b67a880b7a0bad2c28704ad16"></a>
+`gpg --full-generate-key`
 
-<code>gpg --full-generate-key</code>
+- 選択肢
 
-- <a id="b-1572fd7b67a880d2a1d7f3c656c9b646"></a>選択肢
+  - \(1\) RSA と RSA \(デフォルト\)
 
-  - <a id="b-1572fd7b67a8807a8d17c2f58d7a1ad9"></a>\(1\) RSA と RSA \(デフォルト\)
+  - 鍵長は? \(3072\) 4096
 
-  - <a id="b-1572fd7b67a880388cb8df9efc70c99c"></a>鍵長は? \(3072\) 4096
+  - 鍵の有効期間は? \(0\) 0
 
-  - <a id="b-1572fd7b67a8806f9293ed8bac5fb049"></a>鍵の有効期間は? \(0\) 0
+  - name
 
-  - <a id="b-1572fd7b67a880988e99e1b7a12ce140"></a>name
+    - 
 
-    - <a id="b-1572fd7b67a88019a311d0be92395eb8"></a>
+  - email
 
-  - <a id="b-1572fd7b67a88042984ae8b3e89b7520"></a>email
-
-    - <a id="b-1572fd7b67a880059ec0eeeddadbc12e"></a>
-
-<a id="b-1572fd7b67a88060bf04e423eb17baab"></a>
+    - 
 
 #### 作成を確認
 
-<a id="b-1572fd7b67a8807fbc73ed71fbdf3216"></a>
-
-<code>gpg --list-secret-keys --keyid-format LONG</code>
+`gpg --list-secret-keys --keyid-format LONG`

@@ -2,40 +2,24 @@
 title: "日本語関係"
 ---
 
-<a id="b-1562fd7b67a88009bc34faa1bbba969d"></a>
+# **日本語関係**
 
-# <strong>日本語関係</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [Windows](README.md) / 日本語関係</span>
-<!-- migration-navigation:end -->
-
-<a id="b-1562fd7b67a880ebb66ce82f05ad2ec4"></a>
+[公開メモ](../../README.md) / [IT](../README.md) / [Windows](README.md) / 日本語関係
 
 enでインストールしているWindows11に日本語を入れ、入力を優先にする
 
-<a id="b-1562fd7b67a880c2b25bdfc1e8260b6f"></a>
+**言語インストールで、日本語をインストールする**
 
-<strong>言語インストールで、日本語をインストールする</strong>
+**キーボードの優先変更**
 
-<a id="b-1562fd7b67a88078b069dde7d4590712"></a>
+- `時刻と言語 > タイピング > 拡張キーボードレイアウト設定 > デフォルトインプットを上書きする > JP`
 
-<strong>キーボードの優先変更</strong>
+**ホットキーの設定**
 
-- <a id="b-1562fd7b67a880b29640cea0bd902ec7"></a><code>時刻と言語 &gt; タイピング &gt; 拡張キーボードレイアウト設定 &gt; デフォルトインプットを上書きする &gt; JP</code>
+- `時刻と言語 > hotkey > 無効`
 
-<a id="b-1562fd7b67a88027bb5cdc8e6ffacd1a"></a>
+**IMEの切り替え方法を変更**
 
-<strong>ホットキーの設定</strong>
+- `言語設定 > オプション > MS-IME > Key&Touch > KeyAssingment > IME on/off`
 
-- <a id="b-1562fd7b67a880a9946ddaa1b6bdd61b"></a><code>時刻と言語 &gt; hotkey &gt; 無効</code>
-
-<a id="b-1562fd7b67a88087a38de4af7bf07edb"></a>
-
-<strong>IMEの切り替え方法を変更</strong>
-
-- <a id="b-1562fd7b67a8802bb080e1d223203a29"></a><code>言語設定 &gt; オプション &gt; MS-IME &gt; Key&amp;Touch &gt; KeyAssingment &gt; IME on/off</code>
-
-  - <a id="b-1562fd7b67a8808c8380f306f94f7e80"></a><code>ctrl + space</code> へ変更する
-
-<a id="b-1562fd7b67a880a58752e09d61ba5853"></a>
+  - `ctrl + space` へ変更する

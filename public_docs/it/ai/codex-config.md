@@ -2,16 +2,86 @@
 title: "codex"
 ---
 
-<a id="b-3042fd7b67a88011a018fe71351fcdc6"></a>
-
 # codex
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [AI](README.md) / codex</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [IT](../README.md) / [AI](README.md) / codex
 
-- <a id="b-3042fd7b67a880568bafec72e1a9d143"></a><code>~/.codex/config.toml</code>
+- `~/.codex/config.toml`
 
-<a id="b-3042fd7b67a880fb893fdc26da4f5b64"></a>
+```javascript
+model = "gpt-5.3-codex"
 
-<pre><code class="language-javascript">model = "gpt-5.3-codex"&#10;&#10;[features]&#10;remote_models = true&#10;lock_model_version = true&#10;&#10;personality = "pragmatic"&#10;model_reasoning_effort = "medium"&#10;sandbox_mode = "danger-full-access"&#10;&#10;web_search = "live"&#10;&#10;[generation]&#10;temperature = 0.1&#10;top_p = 0.9&#10;&#10;[logging]&#10;command_log = true&#10;command_log_path = "~/.codex/command.log"&#10;&#10;[command_policy]&#10;deny = [&#10;  "rm -rf /",&#10;  "rm -rf /*",&#10;  "dd if=* of=/dev/*",&#10;  "mkfs.*",&#10;  "shutdown",&#10;  "reboot"&#10;]&#10;&#10;[shell_environment_policy]&#10;inherit = "core"&#10;experimental_use_profile = false&#10;ignore_default_excludes = false&#10;&#10;exclude = [&#10;  "*KEY*",&#10;  "*SECRET*",&#10;  "*TOKEN*",&#10;  "*PASSWORD*",&#10;  "*PASS*",&#10;&#10;  # セッション/クッキー/資格情報・SSH周り&#10;  "*SESSION*",&#10;  "*COOKIE*",&#10;  "*CREDENTIAL*",&#10;  "SSH_*",&#10;  "SSH_AUTH_SOCK",&#10;&#10;  # クラウド系（代表例）&#10;  "AWS_*",&#10;  "GCP_*",&#10;  "GOOGLE_*",&#10;  "AZURE_*",&#10;  "ARM_*",&#10;  "OCI_*",&#10;  "CLOUDFLARE_*",&#10;&#10;  # よくある開発系トークン&#10;  "GITHUB_*",&#10;  "GH_*",&#10;  "GITLAB_*",&#10;  "NPM_*",&#10;  "PIP_*",&#10;  "PYPI_*",&#10;  "DOCKER_*",&#10;  "KUBECONFIG",&#10;  "KUBE_*",&#10;&#10;  # 生成AI系キー類（念のため）&#10;  "OPENAI_*",&#10;  "ANTHROPIC_*",&#10;  "COHERE_*",&#10;  "MISTRAL_*",&#10;]</code></pre>
+[features]
+remote_models = true
+lock_model_version = true
+
+personality = "pragmatic"
+model_reasoning_effort = "medium"
+sandbox_mode = "danger-full-access"
+
+web_search = "live"
+
+[generation]
+temperature = 0.1
+top_p = 0.9
+
+[logging]
+command_log = true
+command_log_path = "~/.codex/command.log"
+
+[command_policy]
+deny = [
+  "rm -rf /",
+  "rm -rf /*",
+  "dd if=* of=/dev/*",
+  "mkfs.*",
+  "shutdown",
+  "reboot"
+]
+
+[shell_environment_policy]
+inherit = "core"
+experimental_use_profile = false
+ignore_default_excludes = false
+
+exclude = [
+  "*KEY*",
+  "*SECRET*",
+  "*TOKEN*",
+  "*PASSWORD*",
+  "*PASS*",
+
+  # セッション/クッキー/資格情報・SSH周り
+  "*SESSION*",
+  "*COOKIE*",
+  "*CREDENTIAL*",
+  "SSH_*",
+  "SSH_AUTH_SOCK",
+
+  # クラウド系（代表例）
+  "AWS_*",
+  "GCP_*",
+  "GOOGLE_*",
+  "AZURE_*",
+  "ARM_*",
+  "OCI_*",
+  "CLOUDFLARE_*",
+
+  # よくある開発系トークン
+  "GITHUB_*",
+  "GH_*",
+  "GITLAB_*",
+  "NPM_*",
+  "PIP_*",
+  "PYPI_*",
+  "DOCKER_*",
+  "KUBECONFIG",
+  "KUBE_*",
+
+  # 生成AI系キー類（念のため）
+  "OPENAI_*",
+  "ANTHROPIC_*",
+  "COHERE_*",
+  "MISTRAL_*",
+]
+```

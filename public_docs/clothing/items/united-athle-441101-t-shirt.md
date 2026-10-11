@@ -2,13 +2,9 @@
 title: " Tシャツ 441101 メンズ"
 ---
 
-<a id="b-1392fd7b67a880e0a3a2ea95a04c6e85"></a>
+#  **Tシャツ 441101 メンズ**
 
-# <strong> Tシャツ 441101 メンズ</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / Tシャツ 441101 メンズ</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [衣服管理](../README.md) / Tシャツ 441101 メンズ
 
 - **分類**: 普段着
 - **Status**: Active
@@ -20,9 +16,6 @@ title: " Tシャツ 441101 メンズ"
 - **目標耐久年数**: 2
 - **サイズ**: L
 - **メーカー**: UnitedAthle
-
-
-
 
 ## 公開コメント
 

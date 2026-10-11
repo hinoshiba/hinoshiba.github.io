@@ -3,13 +3,9 @@ title: "スウェットフルジップパーカ(黒)"
 sitemap: false
 ---
 
-<a id="b-1392fd7b67a880b1a493c2d2027847e3"></a>
+# **スウェットフルジップパーカ\(黒\)**
 
-# <strong>スウェットフルジップパーカ\(黒\)</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / スウェットフルジップパーカ\(黒\)</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [衣服管理](../README.md) / スウェットフルジップパーカ\(黒\)
 
 - **Status**: Deactive
 - **運用価格**: ¥11,970

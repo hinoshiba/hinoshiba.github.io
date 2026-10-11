@@ -2,169 +2,164 @@
 title: "gui workstation"
 ---
 
-<a id="b-1562fd7b67a880ad83aad5af1acab27b"></a>
-
 # gui workstation
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [Linux](README.md) / gui workstation</span>
-<!-- migration-navigation:end -->
-
-<a id="b-1562fd7b67a880c2b0a9c3f076cf481f"></a>
+[公開メモ](../../README.md) / [IT](../README.md) / [Linux](README.md) / gui workstation
 
 ### xfce4
 
-<a id="b-1562fd7b67a880978eb8f31a7ca9549f"></a>
+```markdown
+sudo -E apt install -y xubuntu-desktop
+Default display manager: >> lightdm
+```
 
-<pre><code class="language-markdown">sudo -E apt install -y xubuntu-desktop&#10;Default display manager: &gt;&gt; lightdm</code></pre>
+### **japanese**
 
-<a id="b-1562fd7b67a880869bc3d7eeb6b2a0e0"></a>
+1. install and setup
 
-### <strong>japanese</strong>
+   ```text
+   sudo -E apt install language-pack-ja-base language-pack-ja ibus-mozc
+   localectl set-locale LANG=ja_JP.UTF-8 LANGUAGE="ja_JP:ja"
+   source /etc/default/locale
+   echo $LANG
+   ```
 
-1. <a id="b-1562fd7b67a880bda4f8cdc591391784"></a>install and setup
+1. reboot
 
-   <a id="b-1562fd7b67a880ddb199ef8b3c21954c"></a>
+1. 言語サポートの更新
 
-   <pre><code class="language-text">sudo -E apt install language-pack-ja-base language-pack-ja ibus-mozc&#10;localectl set-locale LANG=ja_JP.UTF-8 LANGUAGE="ja_JP:ja"&#10;source /etc/default/locale&#10;echo $LANG&#10;</code></pre>
+   - proxyはいかだと、直接インストールできないので、pakage一覧を確認したら、手で入れる
 
-1. <a id="b-1562fd7b67a8800c9b8bc70220ebe08e"></a>reboot
+1. ディレクトリの英字化
 
-1. <a id="b-1562fd7b67a880758bf9eb8e980995c3"></a>言語サポートの更新
+   `LANG=C xdg-user-dirs-gtk-update`
 
-   - <a id="b-1562fd7b67a8806daf8ff33119dbc9a3"></a>proxyはいかだと、直接インストールできないので、pakage一覧を確認したら、手で入れる
+### **firefox\_esr**
 
-1. <a id="b-1562fd7b67a8808d8b9dee4064081c16"></a>ディレクトリの英字化
+1. remove firefox
 
-   <a id="b-1562fd7b67a880a1bed6dfe9dc24b23f"></a>
+   ```text
+   sudo -E apt purge firefox
+   ```
 
-   <code>LANG=C xdg-user-dirs-gtk-update</code>
+1. install firefox esr
 
-<a id="b-1562fd7b67a88051b8e1d19e589773c4"></a>
+   ```text
+   sudo -E add-apt-repository ppa:mozillateam/ppa
+   sudo -E apt-get update
+   sudo -E apt install firefox-esr
+   ```
 
-### <strong>firefox\_esr</strong>
+1. 日本語プラグイン追加
 
-1. <a id="b-1562fd7b67a8802b873ecb0243fea3f2"></a>remove firefox
+   - `設定>言語設定>日本語>再起動`
 
-   <a id="b-1562fd7b67a880b4bab4fc0eabc7ba64"></a>
+### **opera**
 
-   <pre><code class="language-text">sudo -E apt purge firefox&#10;</code></pre>
+1. repository追加
 
-1. <a id="b-1562fd7b67a880b792ddd54e6c439e8b"></a>install firefox esr
+   ```text
+   wget -qO- https://deb.opera.com/archive.key | sudo apt-key add -
+   echo deb https://deb.opera.com/opera-stable/ stable non-free | sudo tee /etc/apt/sources.list.d/opera.list
+   ```
 
-   <a id="b-1562fd7b67a88032980ac7bded75a931"></a>
+1. install
 
-   <pre><code class="language-text">sudo -E add-apt-repository ppa:mozillateam/ppa&#10;sudo -E apt-get update&#10;sudo -E apt install firefox-esr&#10;</code></pre>
+   `sudo -E apt install opera-stable`
 
-1. <a id="b-1562fd7b67a880e2a8c1f33f1a27efd1"></a>日本語プラグイン追加
+### **choromium**
 
-   - <a id="b-1562fd7b67a8806891c5d596f346b536"></a><code>設定&gt;言語設定&gt;日本語&gt;再起動</code>
+`sudo -E apt install choromium-browser` 
 
-<a id="b-1562fd7b67a880028cdfc49ffb50b1fb"></a>
+### **rdp**
 
-### <strong>opera</strong>
+1. install
 
-1. <a id="b-1562fd7b67a8803488b7f316cb969045"></a>repository追加
+   ```text
+   sudo -E apt install xrdp
+   ```
 
-   <a id="b-1562fd7b67a880bf802ef3a8f9e72554"></a>
+1. update config
 
-   <pre><code class="language-text">wget -qO- https://deb.opera.com/archive.key | sudo apt-key add -&#10;echo deb https://deb.opera.com/opera-stable/ stable non-free | sudo tee /etc/apt/sources.list.d/opera.list&#10;</code></pre>
+   ```text
+   sudo sed -e 's/^new_cursors=true/new_cursors=false/g' -i /etc/xrdp/xrdp.ini
+   sudo systemctl enable xrdp
+   ```
 
-1. <a id="b-1562fd7b67a880b7950ffcd09e82415b"></a>install
+1. reload config
 
-   <a id="b-1562fd7b67a880288bd2c3711e9120f4"></a>
+   ```text
+   sudo systemctl enable xrdp
+   sudo systemctl restart xrdp
+   ```
 
-   <code>sudo -E apt install opera-stable</code>
+1. ユーザでの設定
 
-<a id="b-1562fd7b67a88029a7baef0ba1ba4cb7"></a>
+   ```text
+   $ echo "xfce4-session" > ~/.xsession
+   $ D=/usr/share/xfce4:/usr/share/xubuntu:/usr/local/share
+   $ D=${D}:/usr/share:/var/lib/snapd/desktop:/usr/share
+   $ cat <<EOF > ~/.xsessionrc
+   > export XDG_SESSION_DESKTOP=xubuntu
+   > export XDG_DATA_DIRS=${D}
+   > export XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg:/etc/xdg
+   > EOF
+   ```
 
-### <strong>choromium</strong>
+1. light\-lockerのエラー無効化
 
-<a id="b-1562fd7b67a8808d8961d2cbce043fde"></a>
+   ```text
+   $sudo cp /usr/bin/light-locker /usr/bin/light-locker.orig
+   $ cat <<EOF | sudo tee /usr/bin/light-locker
+   > #!/bin/sh
+   >
+   > # The light-locker uses XDG_SESSION_PATH provided by lightdm.
+   > if [ ! -z "\${XDG_SESSION_PATH}" ]; then
+   >   /usr/bin/light-locker.orig
+   > else
+   >   # Disable light-locker in XRDP.
+   >   true
+   > fi
+   > EOF
+   $ sudo chmod a+x /usr/bin/light-locker
+   ```
 
-<code>sudo -E apt install choromium-browser</code> 
+1. エラーパッケージ削除
 
-<a id="b-1562fd7b67a880a8b600e8128be31daa"></a>
+   `sudo -E apt purge blueman`
 
-### <strong>rdp</strong>
+### **アプリケーションへのproxy用ショートカット作成**
 
-1. <a id="b-1562fd7b67a8803b9f73fe3933db1156"></a>install
+1. copy from original file
 
-   <a id="b-1562fd7b67a88006b31dd318786687e4"></a>
+   ```text
+   cp /usr/share/applications/<targetapp.desktop> ~/.local/share/applications/<targetapp.desktop>
+   ```
 
-   <pre><code class="language-text">sudo -E apt install xrdp&#10;</code></pre>
+1. add text of proxy
 
-1. <a id="b-1562fd7b67a880cb947bf5766b4f4d60"></a>update config
+   ```
+   $ ~/.local/share/applications/<targetapp.desktop>
+   - exec <appname> %u
+   + exec <appname> %u --proxy-server="proxy.i.hinoshiba.com:8080"
+   ```
 
-   <a id="b-1562fd7b67a880b9bf0eccc8fd3f89b8"></a>
+### **x\_mouse**
 
-   <pre><code class="language-text">sudo sed -e 's/^new_cursors=true/new_cursors=false/g' -i /etc/xrdp/xrdp.ini&#10;sudo systemctl enable xrdp&#10;</code></pre>
+- mouseボタンの設定
 
-1. <a id="b-1562fd7b67a8800185c1c8fcaca80023"></a>reload config
+1. toolinstall
 
-   <a id="b-1562fd7b67a8806e9223f3c249b42378"></a>
+`sudo -E apt install easystroke`
 
-   <pre><code class="language-text">sudo systemctl enable xrdp&#10;sudo systemctl restart xrdp&#10;</code></pre>
+### **caps2ctrl**
 
-1. <a id="b-1562fd7b67a88035acded8ac3b49ad6b"></a>ユーザでの設定
+1. 設定変更
 
-   <a id="b-1562fd7b67a8801bb694cf7e7abb5b08"></a>
+   ```text
+   /etc/default/keyboard
+   + XKBOPTIONS="ctrl:nocaps"
+   - XKBOPTIONS=""
+   ```
 
-   <pre><code class="language-text">$ echo "xfce4-session" &gt; ~/.xsession&#10;$ D=/usr/share/xfce4:/usr/share/xubuntu:/usr/local/share&#10;$ D=${D}:/usr/share:/var/lib/snapd/desktop:/usr/share&#10;$ cat &lt;&lt;EOF &gt; ~/.xsessionrc&#10;&gt; export XDG_SESSION_DESKTOP=xubuntu&#10;&gt; export XDG_DATA_DIRS=${D}&#10;&gt; export XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg:/etc/xdg&#10;&gt; EOF&#10;</code></pre>
-
-1. <a id="b-1562fd7b67a880dfbce6ffb37b544384"></a>light\-lockerのエラー無効化
-
-   <a id="b-1562fd7b67a880279e6fc5288e4a7bc0"></a>
-
-   <pre><code class="language-text">$sudo cp /usr/bin/light-locker /usr/bin/light-locker.orig&#10;$ cat &lt;&lt;EOF | sudo tee /usr/bin/light-locker&#10;&gt; #!/bin/sh&#10;&gt;&#10;&gt; # The light-locker uses XDG_SESSION_PATH provided by lightdm.&#10;&gt; if [ ! -z "\${XDG_SESSION_PATH}" ]; then&#10;&gt;   /usr/bin/light-locker.orig&#10;&gt; else&#10;&gt;   # Disable light-locker in XRDP.&#10;&gt;   true&#10;&gt; fi&#10;&gt; EOF&#10;$ sudo chmod a+x /usr/bin/light-locker&#10;</code></pre>
-
-1. <a id="b-1562fd7b67a880dfadd3d08b4122d9f8"></a>エラーパッケージ削除
-
-   <a id="b-1562fd7b67a8802da14ed373bb104bfd"></a>
-
-   <code>sudo -E apt purge blueman</code>
-
-<a id="b-1562fd7b67a880adb024d8672b5ac1b8"></a>
-
-### <strong>アプリケーションへのproxy用ショートカット作成</strong>
-
-1. <a id="b-1562fd7b67a880bda3bffaf38e7b3dbe"></a>copy from original file
-
-   <a id="b-1562fd7b67a8802f9594ca3b8c6666bb"></a>
-
-   <pre><code class="language-text">cp /usr/share/applications/&lt;targetapp.desktop&gt; ~/.local/share/applications/&lt;targetapp.desktop&gt;&#10;</code></pre>
-
-1. <a id="b-1562fd7b67a88053af97fe27092847f6"></a>add text of proxy
-
-   <a id="b-1562fd7b67a880fe8decd273790e739f"></a>
-
-
-
-   <pre><code>$ ~/.local/share/applications/&lt;targetapp.desktop&gt;&#10;- exec &lt;appname&gt; %u&#10;+ exec &lt;appname&gt; %u --proxy-server="proxy.i.hinoshiba.com:8080"</code></pre>
-
-
-<a id="b-1562fd7b67a880f39721d87acfff1a8a"></a>
-
-<a id="b-1562fd7b67a8803c8fe6fc6c9d05bae5"></a>
-
-### <strong>x\_mouse</strong>
-
-- <a id="b-1562fd7b67a88077b4ecf1fb726a23a0"></a>mouseボタンの設定
-
-1. <a id="b-1562fd7b67a8804884c1e3b6478862da"></a>toolinstall
-
-<a id="b-1562fd7b67a880c69350c56488539083"></a>
-
-<code>sudo -E apt install easystroke</code>
-
-<a id="b-1562fd7b67a88046a351ccee2563e172"></a>
-
-### <strong>caps2ctrl</strong>
-
-1. <a id="b-1562fd7b67a880628396eff8bfd36529"></a>設定変更
-
-   <a id="b-1562fd7b67a880418afbc9a37bc583f1"></a>
-
-   <pre><code class="language-text">/etc/default/keyboard&#10;+ XKBOPTIONS="ctrl:nocaps"&#10;- XKBOPTIONS=""</code></pre>
-
-1. <a id="b-1562fd7b67a880969197f4d2d91c4fe8"></a>再起動
+1. 再起動

@@ -2,44 +2,38 @@
 title: "chonryd"
 ---
 
-<a id="b-1562fd7b67a88039acf9ebd6561a4d9e"></a>
+# **chonryd**
 
-# <strong>chonryd</strong>
+[公開メモ](../../README.md) / [IT](../README.md) / [Linux](README.md) / chonryd
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [Linux](README.md) / chonryd</span>
-<!-- migration-navigation:end -->
+1. ntpdが入っているなら消す
 
-1. <a id="b-1562fd7b67a880c58710e3d7ae4447da"></a>ntpdが入っているなら消す
+   ```text
+   sudo apt purge ntp
+   ```
 
-   <a id="b-1562fd7b67a880b6a53ad490cf00021c"></a>
+1. chronyd インストール
 
-   <pre><code class="language-text">sudo apt purge ntp&#10;</code></pre>
+   ```text
+   sudo -E apt install chrony
+   ```
 
-1. <a id="b-1562fd7b67a8809da0dedb77425f1b5c"></a>chronyd インストール
+1. 設定をする
 
-   <a id="b-1562fd7b67a880f19129ee3491b183e0"></a>
+   - /etc/chrony/chrony\.conf
 
-   <pre><code class="language-text">sudo -E apt install chrony&#10;</code></pre>
+     - `ntp1.jst.mfeed.ad.jp`
 
-1. <a id="b-1562fd7b67a8809bb4b6f36dd50beb19"></a>設定をする
+     - `ntp2.jst.mfeed.ad.jp`
 
-   - <a id="b-1562fd7b67a880fdaa80fc12d400acfc"></a>/etc/chrony/chrony\.conf
+     - `ntp3.jst.mfeed.ad.jp`
 
-     - <a id="b-1562fd7b67a880c79e97dbb4bf0c0951"></a><code>ntp1.jst.mfeed.ad.jp</code>
+1. 自動起動と有効化
 
-     - <a id="b-1562fd7b67a880a09d83ef09441e57f4"></a><code>ntp2.jst.mfeed.ad.jp</code>
+   ```text
+   systemctl enable chrony --now
+   ```
 
-     - <a id="b-1562fd7b67a880bbbd22e49df8bfa32f"></a><code>ntp3.jst.mfeed.ad.jp</code>
+1. 動作確認
 
-1. <a id="b-1562fd7b67a880b7b256cf6d62ac782a"></a>自動起動と有効化
-
-   <a id="b-1562fd7b67a88021b0e7c51550321f5a"></a>
-
-   <pre><code class="language-text">systemctl enable chrony --now&#10;</code></pre>
-
-1. <a id="b-1562fd7b67a8803686d2da221cf8058d"></a>動作確認
-
-   <a id="b-1562fd7b67a880c4bd7ae48656faabe8"></a>
-
-   <code>chronyc sources</code>
+   `chronyc sources`

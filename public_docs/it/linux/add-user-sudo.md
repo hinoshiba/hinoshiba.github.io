@@ -2,30 +2,22 @@
 title: "userとsudo の追加"
 ---
 
-<a id="b-1562fd7b67a8801dbdc4c457efa887d0"></a>
+# **userとsudo の追加**
 
-# <strong>userとsudo の追加</strong>
+[公開メモ](../../README.md) / [IT](../README.md) / [Linux](README.md) / userとsudo の追加
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [Linux](README.md) / userとsudo の追加</span>
-<!-- migration-navigation:end -->
+1. user追加
 
-1. <a id="b-1562fd7b67a880fab836faf834023679"></a>user追加
+```text
+sudo adduser <username>
+```
 
-<a id="b-1562fd7b67a880b79decf757b15c8e49"></a>
+1. sudo追加
 
-<pre><code class="language-text">sudo adduser &lt;username&gt;</code></pre>
+```text
+sudo usermod -aG sudo <username>
+```
 
-1. <a id="b-1562fd7b67a88067b734fe2c7fb93bf8"></a>sudo追加
+1. adm追加
 
-<a id="b-1562fd7b67a8808486dfea34fbd8d05a"></a>
-
-<pre><code class="language-text">sudo usermod -aG sudo &lt;username&gt;</code></pre>
-
-1. <a id="b-1562fd7b67a880018b59f812d4adf0b0"></a>adm追加
-
-<a id="b-1562fd7b67a880fb897eeb66cf598684"></a>
-
-<code>sudo usermod -aG adm &lt;username&gt;</code>
-
-<a id="b-1562fd7b67a8804b8814e692b016b3c5"></a>
+`sudo usermod -aG adm <username>`

@@ -2,13 +2,9 @@
 title: "expedition grid fleece full zip hoodie"
 ---
 
-<a id="b-1d92fd7b67a8802d8095eb4fdf2164ec"></a>
-
 # expedition grid fleece full zip hoodie
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / expedition grid fleece full zip hoodie</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [衣服管理](../README.md) / expedition grid fleece full zip hoodie
 
 - **分類**: 運動着
 - **Status**: Active

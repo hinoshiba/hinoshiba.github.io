@@ -2,24 +2,71 @@
 title: "wezTerm"
 ---
 
-<a id="b-1562fd7b67a8809ab0aed803fadf3d02"></a>
-
 # wezTerm
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [macOS](README.md) / wezTerm</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [IT](../README.md) / [macOS](README.md) / wezTerm
 
-- <a id="b-1562fd7b67a880a388c8c76a58236f37"></a>wezTermとは？
+- wezTermとは？
 
-  - <a id="b-1562fd7b67a8802f803cc820315bfee1"></a>[https://wezfurlong\.org/wezterm/index\.html](https://wezfurlong.org/wezterm/index.html)
+  - [https://wezfurlong\.org/wezterm/index\.html](https://wezfurlong.org/wezterm/index.html)
 
-  - <a id="b-1562fd7b67a880759402fd379b1be3fe"></a>[https://github\.com/wez/wezterm](https://github.com/wez/wezterm)
-
-<a id="b-1562fd7b67a880ae9df7db6cb63d4d51"></a>
+  - [https://github\.com/wez/wezterm](https://github.com/wez/wezterm)
 
 #### \.wezterm\.lua
 
-<a id="b-1562fd7b67a8804b824bda28a9289da0"></a>
+```lua
+local wezterm = require 'wezterm'
 
-<pre><code class="language-lua">local wezterm = require 'wezterm'&#10;&#10;local function append_table(table, other)&#10;&#9;for k, v in pairs(other) do&#10;&#9;&#9;table[k] = v&#10;&#9;end&#10;end&#10;&#10;local settings = {&#10;&#9;color_scheme = "neon",w&#10;&#9;window_background_opacity = 0.93,&#10;&#9;text_background_opacity = 1,&#10;&#9;hide_tab_bar_if_only_one_tab = true,&#10;&#9;initial_cols = 240,&#10;&#9;initial_rows = 64,&#10;&#9;hyperlink_rules = {}, -- disable hyperlinks # https://wezfurlong.org/wezterm/hyperlinks.html&#10;&#9;keys = {&#10;&#9;&#9;{ key = "O", mods = "CTRL", action = wezterm.action({ SpawnTab = "CurrentPaneDomain" }) },&#10;&#9;&#9;{ key = "o", mods = "SUPER", action = wezterm.action({ SpawnTab = "CurrentPaneDomain" }) },&#10;&#9;&#9;{ key = "c", mods = "SUPER", action = wezterm.action({ CopyTo = "Clipboard" }) },&#10;&#9;&#9;{ key = "v", mods = "SUPER", action = wezterm.action({ PasteFrom = "Clipboard" }) },&#10;&#9;},&#10;}&#10;&#10;local default_settings = {&#10;&#9;font_size = 20.0,&#10;}&#10;&#10;local mac_settings = {&#10;&#9;font = wezterm.font("Monaco", {weight="Regular", stretch="Normal", style="Normal", italic=false}),&#10;&#9;font_size = 15.0,&#10;}&#10;&#10;local windows_settings = {&#10;&#9;font = wezterm.font("Cascadia Mono", {weight="Regular", stretch="Normal", style="Normal", italic=false}),&#10;&#9;use_ime = true,&#10;&#9;font_size = 11.0,&#10;&#9;default_prog = {"wsl.exe"}&#10;}&#10;&#10;local linux_settings = {&#10;&#9;font_size = 13.0,&#10;}&#10;&#10;if wezterm.target_triple == "aarch64-apple-darwin" or wezterm.target_triple == "x86_64-apple-darwin" then&#10;&#9;append_table(settings, mac_settings)&#10;elseif wezterm.target_triple == "x86_64-unknown-linux-gnu" then&#10;&#9;append_table(settings, linux_settings)&#10;elseif wezterm.target_triple == "x86_64-pc-windows-msvc" then&#10;&#9;append_table(settings, windows_settings)&#10;else&#10;&#9;append_table(settings, default_settings)&#10;end&#10;return settings</code></pre>
+local function append_table(table, other)
+	for k, v in pairs(other) do
+		table[k] = v
+	end
+end
+
+local settings = {
+	color_scheme = "neon",w
+	window_background_opacity = 0.93,
+	text_background_opacity = 1,
+	hide_tab_bar_if_only_one_tab = true,
+	initial_cols = 240,
+	initial_rows = 64,
+	hyperlink_rules = {}, -- disable hyperlinks # https://wezfurlong.org/wezterm/hyperlinks.html
+	keys = {
+		{ key = "O", mods = "CTRL", action = wezterm.action({ SpawnTab = "CurrentPaneDomain" }) },
+		{ key = "o", mods = "SUPER", action = wezterm.action({ SpawnTab = "CurrentPaneDomain" }) },
+		{ key = "c", mods = "SUPER", action = wezterm.action({ CopyTo = "Clipboard" }) },
+		{ key = "v", mods = "SUPER", action = wezterm.action({ PasteFrom = "Clipboard" }) },
+	},
+}
+
+local default_settings = {
+	font_size = 20.0,
+}
+
+local mac_settings = {
+	font = wezterm.font("Monaco", {weight="Regular", stretch="Normal", style="Normal", italic=false}),
+	font_size = 15.0,
+}
+
+local windows_settings = {
+	font = wezterm.font("Cascadia Mono", {weight="Regular", stretch="Normal", style="Normal", italic=false}),
+	use_ime = true,
+	font_size = 11.0,
+	default_prog = {"wsl.exe"}
+}
+
+local linux_settings = {
+	font_size = 13.0,
+}
+
+if wezterm.target_triple == "aarch64-apple-darwin" or wezterm.target_triple == "x86_64-apple-darwin" then
+	append_table(settings, mac_settings)
+elseif wezterm.target_triple == "x86_64-unknown-linux-gnu" then
+	append_table(settings, linux_settings)
+elseif wezterm.target_triple == "x86_64-pc-windows-msvc" then
+	append_table(settings, windows_settings)
+else
+	append_table(settings, default_settings)
+end
+return settings
+```

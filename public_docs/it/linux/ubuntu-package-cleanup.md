@@ -2,24 +2,27 @@
 title: "ゴミ掃除"
 ---
 
-<a id="b-1562fd7b67a8805e9800e28cf72a3225"></a>
+# **ゴミ掃除**
 
-# <strong>ゴミ掃除</strong>
+[公開メモ](../../README.md) / [IT](../README.md) / [Linux](README.md) / ゴミ掃除
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [Linux](README.md) / ゴミ掃除</span>
-<!-- migration-navigation:end -->
+- ubuntu 20\.04 server
 
-- <a id="b-1562fd7b67a88046a934ede96a4cb349"></a>ubuntu 20\.04 server
+  ```text
+   sudo systemctl stop snapd
+   sudo systemctl stop snapd.socket
+   sudo apt purge snapd
+   sudo apt autoremove
+  ```
 
-  <a id="b-1562fd7b67a880b2a26eced56fcd424d"></a>
+- ubuntu 20\.04 desktop
 
-  <pre><code class="language-text"> sudo systemctl stop snapd&#10; sudo systemctl stop snapd.socket&#10; sudo apt purge snapd&#10; sudo apt autoremove&#10;</code></pre>
-
-- <a id="b-1562fd7b67a8807e93f8d1b2150d7388"></a>ubuntu 20\.04 desktop
-
-  <a id="b-1562fd7b67a880a49e4bc29696b30937"></a>
-
-
-
-  <pre><code> sudo systemctl stop snapd&#10; sudo systemctl stop snapd.socket&#10; sudo apt purge snapd&#10; sudo apt purge network-manager&#10; sudo apt purge firefox&#10; sudo -E apt purge gnome*&#10; sudo apt autoremove</code></pre>
+  ```
+   sudo systemctl stop snapd
+   sudo systemctl stop snapd.socket
+   sudo apt purge snapd
+   sudo apt purge network-manager
+   sudo apt purge firefox
+   sudo -E apt purge gnome*
+   sudo apt autoremove
+  ```

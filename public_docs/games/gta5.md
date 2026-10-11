@@ -2,15 +2,9 @@
 title: "GTA5"
 ---
 
-<a id="b-1572fd7b67a880058699d7998dbd0281"></a>
-
 # GTA5
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../README.md) / [ゲーム](README.md) / GTA5</span>
-<!-- migration-navigation:end -->
-
-<a id="b-1572fd7b67a880c8a192f8b2548f67d3"></a>
+[公開メモ](../README.md) / [ゲーム](README.md) / GTA5
 
 > 画像を取得できませんでした（元の公開画像 URL が HTTP 404 を返します）。
 

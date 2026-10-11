@@ -2,13 +2,9 @@
 title: "Impact Air カーフスリーブ ハーフタイツ"
 ---
 
-<a id="b-1d92fd7b67a880798ac0c3b06f387069"></a>
+# Impact Air **カーフスリーブ ハーフタイツ**
 
-# Impact Air <strong>カーフスリーブ ハーフタイツ</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / Impact Air カーフスリーブ ハーフタイツ</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [衣服管理](../README.md) / Impact Air カーフスリーブ ハーフタイツ
 
 - **分類**: 運動着
 - **Status**: Active

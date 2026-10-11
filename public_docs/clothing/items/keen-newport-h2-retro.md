@@ -2,13 +2,9 @@
 title: "NEWPORT H2 ニューポート エイチツー RETRO ブラック 27.0 cm"
 ---
 
-<a id="b-1392fd7b67a8802c82faec0882e4b74a"></a>
+# **NEWPORT H2 ニューポート エイチツー RETRO ブラック 27\.0 cm**
 
-# <strong>NEWPORT H2 ニューポート エイチツー RETRO ブラック 27\.0 cm</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / NEWPORT H2 ニューポート エイチツー RETRO ブラック 27\.0 cm</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [衣服管理](../README.md) / NEWPORT H2 ニューポート エイチツー RETRO ブラック 27\.0 cm
 
 - **分類**: 普段着
 - **Status**: Active
@@ -20,9 +16,6 @@ title: "NEWPORT H2 ニューポート エイチツー RETRO ブラック 27.0 cm
 - **目標耐久年数**: 4
 - **サイズ**: 27cm
 - **メーカー**: KEEN
-
-
-
 
 ## 公開コメント
 

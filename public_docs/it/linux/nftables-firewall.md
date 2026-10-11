@@ -2,46 +2,63 @@
 title: "nftables"
 ---
 
-<a id="b-1562fd7b67a880feafccfbfbe9e49d13"></a>
-
 # nftables
 
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [IT](../README.md) / [Linux](README.md) / nftables</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [IT](../README.md) / [Linux](README.md) / nftables
 
-1. <a id="b-1562fd7b67a880cebd82d9e59bb5e868"></a>nftインストール
+1. nftインストール
 
-   1. <a id="b-1562fd7b67a880099d1df203d46e017e"></a>ufw無効
+   1. ufw無効
 
-      1. <a id="b-1562fd7b67a880189561c3d0108ef4d7"></a><code>sudo ufw disable</code>
+      1. `sudo ufw disable`
 
-      1. <a id="b-1562fd7b67a8801d8512f2a721a73bfb"></a><code>sudo systemctl stop ufw</code>
+      1. `sudo systemctl stop ufw`
 
-      1. <a id="b-1562fd7b67a88034896dfb0473521fca"></a><code>sudo systemctl disable ufw</code>
+      1. `sudo systemctl disable ufw`
 
-      1. <a id="b-1562fd7b67a880629cddd696dfb50fed"></a><code>reboot</code>
+      1. `reboot`
 
-   1. <a id="b-1562fd7b67a8802c8d53ca54bf3a1853"></a><code>sudo apt install nftables</code>
+   1. `sudo apt install nftables`
 
-   1. <a id="b-1562fd7b67a8808da40cffd4f8314956"></a><code>sudo update-alternatives --config iptables</code>
+   1. `sudo update-alternatives --config iptables`
 
-      - <a id="b-1562fd7b67a880c2af2afad7f8c95854"></a>nftablesを選択
+      - nftablesを選択
 
-   1. <a id="b-1562fd7b67a880729f4bfc516c8b2dc8"></a><code>sudo vim /etc/nftables.conf</code>
+   1. `sudo vim /etc/nftables.conf`
 
-      <a id="b-1562fd7b67a88005b709f95f708208ab"></a>
+      ```text
+      #!/usr/sbin/nft -f
+      flush ruleset
 
-      <pre><code class="language-text">#!/usr/sbin/nft -f&#10;flush ruleset&#10;&#10;table inet filter {&#10;  chain input {&#10;&#9;type filter hook input priority 0; policy drop;&#10;&#10;&#9;iifname "lo" counter accept&#10;&#10;&#9;ct state established,related counter accept&#10;&#10;&#9;ct state new tcp dport 22 counter accept&#10;  }&#10;&#10;  chain forward {&#10;&#9;type filter hook forward priority 0; policy drop;&#10;  }&#10;&#10;  chain output {&#10;&#9;type filter hook output priority 0; policy accept;&#10;  }&#10;}&#10;</code></pre>
+      table inet filter {
+        chain input {
+      	type filter hook input priority 0; policy drop;
 
-   1. <a id="b-1562fd7b67a8807db9d2f90a28747497"></a>起動と有効化
+      	iifname "lo" counter accept
 
-      - <a id="b-1562fd7b67a88096855dfaf10655c286"></a><code>systemctl enable nftables --now</code>
+      	ct state established,related counter accept
 
-   1. <a id="b-1562fd7b67a880868b0ecd5dc7e8f531"></a>動作確認
+      	ct state new tcp dport 22 counter accept
+        }
 
-      - <a id="b-1562fd7b67a8809a85f3fcdbf9356b12"></a><code>nft list ruleset</code>
+        chain forward {
+      	type filter hook forward priority 0; policy drop;
+        }
 
-      - <a id="b-1562fd7b67a880ad8394db2da262c256"></a><code>sudo iptables --version</code>
+        chain output {
+      	type filter hook output priority 0; policy accept;
+        }
+      }
+      ```
 
-        - <a id="b-1562fd7b67a880248b61c2be2d01caa1"></a><code>iptables v1.8.4 (nf_tables)</code>
+   1. 起動と有効化
+
+      - `systemctl enable nftables --now`
+
+   1. 動作確認
+
+      - `nft list ruleset`
+
+      - `sudo iptables --version`
+
+        - `iptables v1.8.4 (nf_tables)`

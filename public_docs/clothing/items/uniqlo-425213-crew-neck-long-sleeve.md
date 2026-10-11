@@ -3,13 +3,9 @@ title: "クルーネックT（長袖）"
 sitemap: false
 ---
 
-<a id="b-1392fd7b67a880c1abf0f82b3cb498a7"></a>
+# **クルーネックT（長袖）**
 
-# <strong>クルーネックT（長袖）</strong>
-
-<!-- migration-navigation:start -->
-<span class="docs-breadcrumbs">[公開メモ](../../README.md) / [衣服管理](../README.md) / クルーネックT（長袖）</span>
-<!-- migration-navigation:end -->
+[公開メモ](../../README.md) / [衣服管理](../README.md) / クルーネックT（長袖）
 
 - **Status**: Deactive
 - **運用価格**: ¥4,500
@@ -20,9 +16,6 @@ sitemap: false
 - **目標耐久年数**: 2
 - **サイズ**: L
 - **メーカー**: ユニクロ
-
-
-
 
 ## 公開コメント
 
