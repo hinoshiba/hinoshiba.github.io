@@ -12,7 +12,7 @@
 ## その他のリンク
 * [notion: public_docs/](https://hinoshiba.notion.site/public-memo-1482fd7b67a88024a20bf4b9f7214054)
 	* 個人のメモなど
-* [notion: public_iCH1family/](https://hinoshiba.notion.site/public-iCH1family-1482fd7b67a880ee8711dbf57af25d18)
+* [public_iCH1family/](https://docs.i.hinoshiba.com/)
 	* 家庭のルールページ
 * public keys
 	* [PGP](./pubkeys/)
